@@ -1,0 +1,699 @@
+black-dog-smoke-and-ale-house-urbana,Black Dog Smoke & Ale House,http://m.yelp.com/biz/black-dog-smoke-and-ale-house-urbana,[Barbeque,bbq],4.5
+maize-mexican-grill-champaign,Maize Mexican Grill,http://m.yelp.com/biz/maize-mexican-grill-champaign,[Mexican,mexican],4.5
+sakanaya-restaurant-champaign,Sakanaya Restaurant,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],4.5
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],4.5
+cravings-champaign-2,Cravings,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],4.0
+world-harvest-foods-champaign,World Harvest Foods,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],4.5
+k-bowl-champaign,K-Bowl,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],4.0
+bacaro-champaign,Bacaro,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],4.0
+courier-cafe-urbana,Courier Cafe,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],4.0
+zorbas-restaurant-champaign,Zorba's Restaurant,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],4.0
+huaraches-moroleon-urbana,Huaraches Moroleon,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],4.5
+escobars-champaign,Escobar's,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],4.0
+golden-wok-champaign,Golden Wok,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],4.0
+big-grove-tavern-champaign,Big Grove Tavern,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],3.5
+seven-saints-champaign,Seven Saints,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],3.5
+sitara-urbana,Sitara,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],4.0
+boltini-lounge-champaign,Boltini Lounge,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],3.5
+black-dog-smoke-and-ale-house-urbana,Black Dog Smoke & Ale House,+1-217-344-9334,http://m.yelp.com/biz/black-dog-smoke-and-ale-house-urbana,[Barbeque,bbq],411,4.5
+maize-mexican-grill-champaign,Maize Mexican Grill,+1-217-355-6400,http://m.yelp.com/biz/maize-mexican-grill-champaign,[Mexican,mexican],207,4.5
+sakanaya-restaurant-champaign,Sakanaya Restaurant,+1-217-344-1400,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],71,4.5
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,+1-217-398-8988,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],159,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],46,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],56,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+maize-mexican-grill-champaign,Maize Mexican Grill,+1-217-355-6400,http://m.yelp.com/biz/maize-mexican-grill-champaign,[Mexican,mexican],207,4.5
+sakanaya-restaurant-champaign,Sakanaya Restaurant,+1-217-344-1400,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],71,4.5
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,+1-217-398-8988,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],159,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],46,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],56,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+sakanaya-restaurant-champaign,Sakanaya Restaurant,+1-217-344-1400,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],71,4.5
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,+1-217-398-8988,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],159,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],46,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],56,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,+1-217-398-8988,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],159,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],46,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],56,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],46,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],56,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],56,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],87,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],96,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],107,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],179,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],110,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+kofusion-champaign,Kofusion,+1-217-531-1166,http://m.yelp.com/biz/kofusion-champaign,[Asian Fusion,asianfusion,Sushi Bars,sushi],154,3.5
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],119,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+kofusion-champaign,Kofusion,+1-217-531-1166,http://m.yelp.com/biz/kofusion-champaign,[Asian Fusion,asianfusion,Sushi Bars,sushi],154,3.5
+radio-maria-champaign,Radio Maria,+1-217-398-7729,http://m.yelp.com/biz/radio-maria-champaign,[Spanish,spanish,Breakfast & Brunch,breakfast_brunch,Cajun/Creole,cajun],159,3.5
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],199,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+kofusion-champaign,Kofusion,+1-217-531-1166,http://m.yelp.com/biz/kofusion-champaign,[Asian Fusion,asianfusion,Sushi Bars,sushi],154,3.5
+radio-maria-champaign,Radio Maria,+1-217-398-7729,http://m.yelp.com/biz/radio-maria-champaign,[Spanish,spanish,Breakfast & Brunch,breakfast_brunch,Cajun/Creole,cajun],159,3.5
+potbelly-sandwich-shop-champaign,Potbelly Sandwich Shop,+1-217-344-5601,http://m.yelp.com/biz/potbelly-sandwich-shop-champaign,[Sandwiches,sandwiches,Fast Food,hotdogs,Delis,delis],25,4.0
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],75,4.0
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+kofusion-champaign,Kofusion,+1-217-531-1166,http://m.yelp.com/biz/kofusion-champaign,[Asian Fusion,asianfusion,Sushi Bars,sushi],154,3.5
+radio-maria-champaign,Radio Maria,+1-217-398-7729,http://m.yelp.com/biz/radio-maria-champaign,[Spanish,spanish,Breakfast & Brunch,breakfast_brunch,Cajun/Creole,cajun],159,3.5
+potbelly-sandwich-shop-champaign,Potbelly Sandwich Shop,+1-217-344-5601,http://m.yelp.com/biz/potbelly-sandwich-shop-champaign,[Sandwiches,sandwiches,Fast Food,hotdogs,Delis,delis],25,4.0
+po-boys-restaurant-urbana,Po' Boys Restaurant,+1-217-367-2255,http://m.yelp.com/biz/po-boys-restaurant-urbana,[Barbeque,bbq,Pizza,pizza],13,4.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],51,4.0
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],98,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],83,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],69,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],97,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+kofusion-champaign,Kofusion,+1-217-531-1166,http://m.yelp.com/biz/kofusion-champaign,[Asian Fusion,asianfusion,Sushi Bars,sushi],154,3.5
+radio-maria-champaign,Radio Maria,+1-217-398-7729,http://m.yelp.com/biz/radio-maria-champaign,[Spanish,spanish,Breakfast & Brunch,breakfast_brunch,Cajun/Creole,cajun],159,3.5
+potbelly-sandwich-shop-champaign,Potbelly Sandwich Shop,+1-217-344-5601,http://m.yelp.com/biz/potbelly-sandwich-shop-champaign,[Sandwiches,sandwiches,Fast Food,hotdogs,Delis,delis],25,4.0
+po-boys-restaurant-urbana,Po' Boys Restaurant,+1-217-367-2255,http://m.yelp.com/biz/po-boys-restaurant-urbana,[Barbeque,bbq,Pizza,pizza],13,4.5
+esquire-lounge-inc-champaign,Esquire Lounge Inc,+1-217-398-5858,http://m.yelp.com/biz/esquire-lounge-inc-champaign,[Lounges,lounges,Pizza,pizza],64,4.0
+black-dog-smoke-and-ale-house-urbana,Black Dog Smoke & Ale House,+1-217-344-9334,http://m.yelp.com/biz/black-dog-smoke-and-ale-house-urbana,[Barbeque,bbq],416,4.5
+maize-mexican-grill-champaign,Maize Mexican Grill,+1-217-355-6400,http://m.yelp.com/biz/maize-mexican-grill-champaign,[Mexican,mexican],211,4.5
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,+1-217-398-8988,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],158,4.5
+sakanaya-restaurant-champaign,Sakanaya Restaurant,+1-217-344-1400,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],71,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],47,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],57,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+maize-mexican-grill-champaign,Maize Mexican Grill,+1-217-355-6400,http://m.yelp.com/biz/maize-mexican-grill-champaign,[Mexican,mexican],211,4.5
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,+1-217-398-8988,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],158,4.5
+sakanaya-restaurant-champaign,Sakanaya Restaurant,+1-217-344-1400,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],71,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],47,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],57,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+golden-harbor-authentic-chinese-cuisine-champaign,Golden Harbor Authentic Chinese Cuisine,+1-217-398-8988,http://m.yelp.com/biz/golden-harbor-authentic-chinese-cuisine-champaign,[Chinese,chinese],158,4.5
+sakanaya-restaurant-champaign,Sakanaya Restaurant,+1-217-344-1400,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],71,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],47,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],57,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+sakanaya-restaurant-champaign,Sakanaya Restaurant,+1-217-344-1400,http://m.yelp.com/biz/sakanaya-restaurant-champaign,[Japanese,japanese,Sushi Bars,sushi],71,4.5
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],47,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],57,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+huaraches-moroleon-urbana,Huaraches Moroleon,+1-217-344-6772,http://m.yelp.com/biz/huaraches-moroleon-urbana,[Mexican,mexican],47,4.5
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],57,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+bangkok-thai-and-pho-911-champaign,Bangkok Thai and Pho 911,+1-217-954-1641,http://m.yelp.com/biz/bangkok-thai-and-pho-911-champaign,[Thai,thai],57,4.5
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+world-harvest-foods-champaign,World Harvest Foods,+1-217-356-4444,http://m.yelp.com/biz/world-harvest-foods-champaign,[Ethnic Food,ethnicmarkets,Delis,delis],39,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+cravings-champaign-2,Cravings,+1-217-328-2538,http://m.yelp.com/biz/cravings-champaign-2,[Chinese,chinese,Asian Fusion,asianfusion,Malaysian,malaysian],90,4.0
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+bacaro-champaign,Bacaro,+1-217-398-6982,http://m.yelp.com/biz/bacaro-champaign,[American (New),newamerican,Italian,italian,Lounges,lounges],97,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+escobars-champaign,Escobar's,+1-217-352-7467,http://m.yelp.com/biz/escobars-champaign,[American (New),newamerican,Latin American,latin,Mexican,mexican],108,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],70,4.0
+cheese-and-crackers-champaign,Cheese and Crackers,+1-217-615-8531,http://m.yelp.com/biz/cheese-and-crackers-champaign,[Chocolatiers & Shops,chocolate,Delis,delis,Seafood Markets,seafoodmarkets],31,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],70,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],99,4.0
+courier-cafe-urbana,Courier Cafe,+1-217-328-1811,http://m.yelp.com/biz/courier-cafe-urbana,[American (Traditional),tradamerican],180,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],70,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],99,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+k-bowl-champaign,K-Bowl,+1-217-344-6022,http://m.yelp.com/biz/k-bowl-champaign,[Korean,korean],26,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],70,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],99,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+thara-thai-champaign,Thara Thai,+1-217-378-1986,http://m.yelp.com/biz/thara-thai-champaign,[Thai,thai],111,4.0
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],70,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],99,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+radio-maria-champaign,Radio Maria,+1-217-398-7729,http://m.yelp.com/biz/radio-maria-champaign,[Spanish,spanish,Breakfast & Brunch,breakfast_brunch,Cajun/Creole,cajun],159,3.5
+big-grove-tavern-champaign,Big Grove Tavern,+1-217-239-3505,http://m.yelp.com/biz/big-grove-tavern-champaign,[American (New),newamerican,Pubs,pubs,Breakfast & Brunch,breakfast_brunch],120,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],70,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],99,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+radio-maria-champaign,Radio Maria,+1-217-398-7729,http://m.yelp.com/biz/radio-maria-champaign,[Spanish,spanish,Breakfast & Brunch,breakfast_brunch,Cajun/Creole,cajun],159,3.5
+kofusion-champaign,Kofusion,+1-217-531-1166,http://m.yelp.com/biz/kofusion-champaign,[Asian Fusion,asianfusion,Sushi Bars,sushi],155,3.5
+zorbas-restaurant-champaign,Zorba's Restaurant,+1-217-344-0710,http://m.yelp.com/biz/zorbas-restaurant-champaign,[Greek,greek],76,4.0
+destihl-restaurant-and-brew-works-champaign,Destihl Restaurant & Brew Works,+1-217-356-0301,http://m.yelp.com/biz/destihl-restaurant-and-brew-works-champaign,[American (New),newamerican,Gluten-Free,gluten_free,Breakfast & Brunch,breakfast_brunch],202,3.5
+boltini-lounge-champaign,Boltini Lounge,+1-217-378-8001,http://m.yelp.com/biz/boltini-lounge-champaign,[Lounges,lounges,Gastropubs,gastropubs],66,4.0
+seven-saints-champaign,Seven Saints,+1-217-351-7775,http://m.yelp.com/biz/seven-saints-champaign,[American (Traditional),tradamerican,Pubs,pubs,Lounges,lounges],132,3.5
+biaggis-ristorante-italiano-champaign-2,Biaggi's Ristorante Italiano,+1-217-356-4300,http://m.yelp.com/biz/biaggis-ristorante-italiano-champaign-2,[Italian,italian],99,4.0
+dos-reales-champaign,Dos Reales,+1-217-351-6879,http://m.yelp.com/biz/dos-reales-champaign,[Mexican,mexican],109,4.0
+sushi-kame-champaign,Sushi Kame,+1-217-356-3366,http://m.yelp.com/biz/sushi-kame-champaign,[Sushi Bars,sushi,Japanese,japanese],82,4.0
+golden-wok-champaign,Golden Wok,+1-217-356-8383,http://m.yelp.com/biz/golden-wok-champaign,[Thai,thai,Chinese,chinese],52,4.0
+sitara-urbana,Sitara,+1-217-344-6440,http://m.yelp.com/biz/sitara-urbana,[Indian,indpak,Vegetarian,vegetarian],48,4.0
+the-red-herring-vegetarian-restaurant-urbana-2,The Red Herring Vegetarian Restaurant,+1-217-367-2340,http://m.yelp.com/biz/the-red-herring-vegetarian-restaurant-urbana-2,[Vegetarian,vegetarian,Cafes,cafes,Vegan,vegan],36,4.0
+el-charro-champaign-2,El Charro,+1-217-337-6647,http://m.yelp.com/biz/el-charro-champaign-2,[Mexican,mexican],24,4.5
+taco-motorizado-champaign,Taco Motorizado,+1-217-372-0129,http://m.yelp.com/biz/taco-motorizado-champaign,[Street Vendors,streetvendors,Mexican,mexican],11,4.5
+xinh-xinh-cafe-urbana-2,Xinh Xinh Cafe,+1-217-337-7600,http://m.yelp.com/biz/xinh-xinh-cafe-urbana-2,[Vietnamese,vietnamese],121,4.0
+original-pancake-house-champaign,Original Pancake House,+1-217-352-8866,http://m.yelp.com/biz/original-pancake-house-champaign,[Breakfast & Brunch,breakfast_brunch],70,4.0
+siam-terrace-urbana,Siam Terrace,+1-217-367-8424,http://m.yelp.com/biz/siam-terrace-urbana,[Thai,thai],99,4.0
+yellowfin-champaign,Yellowfin,+1-217-351-7878,http://m.yelp.com/biz/yellowfin-champaign,[Japanese,japanese,Sushi Bars,sushi],68,4.0
+sams-cafe-champaign,Sam's Cafe,+1-217-352-7102,http://m.yelp.com/biz/sams-cafe-champaign,[Diners,diners,Breakfast & Brunch,breakfast_brunch],52,4.0
+radio-maria-champaign,Radio Maria,+1-217-398-7729,http://m.yelp.com/biz/radio-maria-champaign,[Spanish,spanish,Breakfast & Brunch,breakfast_brunch,Cajun/Creole,cajun],159,3.5
+kofusion-champaign,Kofusion,+1-217-531-1166,http://m.yelp.com/biz/kofusion-champaign,[Asian Fusion,asianfusion,Sushi Bars,sushi],155,3.5
