@@ -6,6 +6,7 @@ import urllib2
 import json
 import oauth2
 import re
+import io
 
 # Setting the Google Places API key
 AUTH_KEY = 'AIzaSyACzP9Vt7RxrLFqwsG4SkVGRIiSJC1kEWo'
@@ -19,13 +20,17 @@ TOKEN_SECRET = 'LlwCEHA27akrocjGwCvg0HW2ffc'
 # Defining a Class for Search
 def generate(city):
 	print "-----------------------------\n Looking up Restaurants \n-----------------------------\n"
+	outfile = io.open('Restaurant_Data.txt','w',encoding='utf8')
 	for i in range(0,18):
 		term = 'restaurant'
 		limit = 20
-		offset = i
+		if i==0:
+			url = 'http://api.yelp.com/v2/search?term=' + term + '&location=' + city + '&limit=' + str(limit)
+		else:
+			url = 'http://api.yelp.com/v2/search?term=' + term + '&location=' + city + '&limit=' + str(limit) + '&offset=' + str(limit*i)
 		#encoded_params = urllib.urlencode(url_params)
 
-		url = 'http://api.yelp.com/v2/search?term=' + term + '&location=' + city + '&limit=' + str(limit) + '&offset=' + str(offset)
+		#url = 'http://api.yelp.com/v2/search?term=' + term + '&location=' + city + '&limit=' + str(limit) + '&offset=' + str(offset)
 
 		#'http://{0}{1}?{2}'.format(host, path, encoded_params)
 
@@ -50,7 +55,7 @@ def generate(city):
 			conn.close()
 
 		#total = json_data['total']
-		outfile = open("Restaurant_Data.txt","a")
+		
 		
 		for place in json_data['businesses']:
 			items = []
@@ -58,10 +63,10 @@ def generate(city):
 				for j in i:
 					items.append(j)
 			categories = '[' + ",".join(item for item in items) + ']'
-			outfile.write(place['id'] + ',' + place['name'] + ',' + place['display_phone'] + ',' + place['mobile_url'] + ',' + 
+			outfile.write(place['id'] + ',' + place['name'] + ',' + place['mobile_url'] + ',' + 
 						 categories + ',' + str(place['review_count']) + ',' + str(place['rating']) +  '\n')
 		
-		outfile.close()
+	outfile.close()
 		
 
 #class Search
