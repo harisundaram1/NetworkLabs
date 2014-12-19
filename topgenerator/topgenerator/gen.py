@@ -1,18 +1,8 @@
-import snap
-import csv
-import random
+import snap, csv, random, re, math, datetime, os, base64, urllib,  urllib2, json
 from .connect_db import *
 from pyorient.utils import *
-import re
-import math
 import numpy as np
-import datetime
-import os
-import base64
 import scipy.spatial.distance
-import urllib2
-import json
-import urllib
 
 # INPUT:
 #	-	100 user names
@@ -135,7 +125,7 @@ def save_graph_in_db(graph):
 	create_custom_fiends()
 	create_images_for_nodes(user_image_map)
 
-def create_users_network(user_count=10,friends_count=get_friends_count(),prob=get_prob(),network_type='random',conf_model=False):
+def generate_friends_network(user_count=10,friends_count=get_friends_count(),prob=get_prob(),network_type='random',conf_model=False):
 	# User list, probability p and network_type is given, construct a graph
 	res ="empty"
 	
@@ -158,12 +148,6 @@ def create_users_network(user_count=10,friends_count=get_friends_count(),prob=ge
 		print "Creating a random network with "+str(user_count)+" users"
 		edge_count = user_count*friends_count
 		new_graph = snap.GenRndGnm(snap.PUNGraph,user_count,edge_count)
-	# Add info network if required
-	if ADD_INFO_NETWORK:
-		add_info_network(new_graph)
-
-	#save the graph in DB
-	save_graph_in_db(new_graph)
 
 def create_restaurants():
 	client = connect()
@@ -235,6 +219,13 @@ def get_count_given_probability(p=0):
 		r = random.uniform(0,1)
 	return count
 
+def toss_coin_for_probability(p=0):
+	result = False
+	r = random.uniform(0,1)
+	if p >= r:
+		result = True
+	return result
+
 def get_activities_probs_for_user(user):
 	# return set of 4 probabilities - > psi, gamma, alpha, beta such that sum is 1
 	# read from user if required
@@ -304,7 +295,7 @@ def get_restaurants_for_activities(user):
 	# Run the algo n times where n is the activities count
 	# Pick a probability for picking rest
 	# print 'generating activity for user '+user.first_name+' '+user.last_name
-	activities_count = get_count_given_probability(user.prob_of_activity)
+	activities_count = 1 if toss_coin_for_probability(user.prob_of_activity) else 0
 	# print 'performing count '+str(activities_count)
 	activities_probabilities = get_activities_probs_for_user(user)
 	restaurant_list = []
@@ -513,6 +504,7 @@ def create_images_for_users():
    			print 'getting '+img_filename
    			urllib.urlretrieve(img_url,'data/img/people/'+img_filename)
    			# print resp
+
 def create_images_for_nodes(node_image_map):
 	cl=connect()
 	# Given node:image_filename map create nodes.
@@ -527,3 +519,20 @@ def create_images_for_nodes(node_image_map):
 		new_rec = cl.command('create vertex BinaryData set type="'+b_type+'",category="'+b_category+'",data="'+encoded_str+'"')[0]
 		cl.command('Update Person set image='+str(new_rec.rid)+' where @rid='+user_id)
 
+def generate_random_comments(user,k=20):
+	# Given a user, get the count of comments he/she will be performing
+	# Fetch 'k' can view cards and then get the c	
+	comment_count = get_count_given_probability(user.prob_of_comment)
+	cl = connect()
+	cards = cl.command('select expand(out("can_view")) from Person where @rid='+user.rid)
+	
+	for i in xrange(0,comment_count):
+
+def update_users_network(users=[]):
+	if users.empty():
+		return
+
+	# Clear existing friends_with network
+	# fetch new network
+	# save new network in the DB
+	#
