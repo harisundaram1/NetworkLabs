@@ -6,3 +6,5 @@ import scipy.spatial.distance
 
 
 # This is the file where we manipulate the files
+def to_snap(nodes=[],edge_type=''):
+	# INPUT: Node List, edge type 

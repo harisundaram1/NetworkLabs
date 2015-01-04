@@ -166,10 +166,10 @@ def clear_network():
 	# deletes all nodes and edges
 	cl = connect()
 	print "Deleting all Person,Card,BinaryData and Edges"
-	cl.command('delete from Person')
-	cl.command('delete from Card')
-	cl.command('delete from BinaryData')
-	cl.command('delete from E')
+	cl.command('delete from Person unsafe')
+	cl.command('delete from Card unsafe')
+	cl.command('delete from BinaryData unsafe')
+	cl.command('delete from E unsafe')
 
 # def create_activities(users,activity_count,datetime):
 # 	# Given a set of users and total activity count
@@ -458,7 +458,7 @@ def create_binary_data():
 def create_random_users_csv(user_count=2):
 	api_key = 'BEG2-123I-ZAW0-8QXW'
 	res_list = []
-	header = ['first_name','last_name','gender','major','year','email','doller_limit','prob_of_activity','prob_of_comment','prob_of_like','is_vegetarian','ethnicity','age','image_url']
+	header = ['first_name','last_name','gender','major','year','email','dollar_limit','prob_of_activity','prob_of_comment','prob_of_like','is_vegetarian','ethnicity','age','image_url']
 	seed = 'mokpro'
 	for i in xrange(0,int(math.ceil(user_count/200.0))):
 		url = 'http://api.randomuser.me/?key='+api_key+'&results=200&seed='+seed+str(i)
