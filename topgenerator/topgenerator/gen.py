@@ -31,23 +31,29 @@ def get_info_edges(graph,node_id,edge_count=2):
 			out_node = graph.GetRndNId()
 		graph.AddEdge(node_id,outnode)
 
-def get_all_cuisines(restaurants):
+def get_all_cuisines():
+	cl = connect()
+	cuisines = cl.command('select cuisines from Restaurant')
 	all_cuisines = []
-	for res in restaurants:
-		all_cuisines.extend(res['cuisines'])
-	all_cuisines = set(all_cuisines)
+	for cus in cuisines:
+		all_cuisines.extend(cus.cuisines[0].split(','))
+	all_cuisines = list(set(all_cuisines))
+	
 	return all_cuisines
 
 def get_users(count=10):
 	# Generating users from the CSV list
 	users = []
-	# all_cuisines = get_all_cuisines(get_restaurants())
-	users = get_data('new_random_users_nov24.csv')
+	all_cuisines = get_all_cuisines()
+	users = get_data('new_random_users_jan6.csv')
 	for user in users:
 		user['age'] = int(random.uniform(17,30))
-		# user['is_vegetarian'] = (int(user['is_vegetarian']))  #True if(get_prob() > 0.5) else False
+		user['is_vegetarian'] = True if(get_prob() > 0.5) else False
 		user['first_name'] = user['first_name'].title()
 		user['last_name'] = user['last_name'].title()
+		user['steps_walked'] = int(random.uniform(100,10000))
+		user['cuisines_liked'] = random.sample(all_cuisines,3)
+		user['time_limit'] = int(random.uniform(30,120))
 	return users[0:count]
 
 def get_restaurants():
@@ -101,7 +107,7 @@ def save_graph_in_db(graph):
 	# print "cluster_id: "+str(cluster_id)
 	user_image_map = {}
 	for u in users:
-		u.pop('is_vegetarian',None)
+		# u.pop('is_vegetarian',None)
 		img_url = u.pop('image_url',None)
 		rec = {'@Person': u}
 		# print rec
@@ -328,7 +334,7 @@ def create_activity_cards(users,creation_date=datetime.date.today()):
 		restaurant_list = get_restaurants_for_activities(user)
 		for restaurant in restaurant_list:
 			print user.first_name+' eats at '+restaurant.name+' on '+creation_date.strftime('%Y-%m-%d')
-			cmd_str = 'create edge eats_at from '+user.rid+' to '+restaurant.rid+' set created_at ="'+creation_date.strftime('%Y-%m-%d')+'"'
+			cmd_str = 'create edge eats_at from '+user.rid+' to '+restaurant.rid+' set created_at_datetime ="'+creation_date.strftime('%Y-%m-%d')+'", created_at="'+str(int(card['date'].strftime('%s'))*1000)+'"'
 			# print cmd_str
 			cl.command(cmd_str)
 			card_list.append({'user':user,'rest':restaurant,'date':creation_date})
@@ -352,13 +358,16 @@ def create_card(card_list=[]):
 		image_id = get_random_food_picture()
 		like_count = int(random.uniform(0,15))
 		comment_count = int(random.uniform(0,7))
-		cmd_str = 'create vertex Card set comment_count='+str(comment_count)+',comment_list=[],like_count='+str(like_count)+',like_list=[],people_involved=[],type="Eat",created_at="'+str(int(card['date'].strftime('%s'))*1000)+'",first_name="'+card['user'].first_name+'",last_name="'+card['user'].last_name+'",created_at_datetime="'+card['date'].strftime('%Y-%m-%d')+'",location_name="'+card['rest'].name+'",text="Eating at '+card['rest'].name+'"'
-		if image_id != '':
-			cmd_str+=',image="'+image_id+'"'
-		cmd_str+=',profile_image='+str(card['user'].image)+''
-		#Add person
+		cmd_str = 'create vertex Card set type="post",comment_count='+str(comment_count)+',comment_list=[],like_count='+str(like_count)+',like_list=[],people_involved=[],type="Eat",created_at="'+str(int(card['date'].strftime('%s'))*1000)+'",first_name="'+card['user'].first_name+'",last_name="'+card['user'].last_name+'",created_at_datetime="'+card['date'].strftime('%Y-%m-%d')+'",location_name="'+card['rest'].name+'",text="Eating at '+card['rest'].name+'"'
+		
+		# OLD
+		# if image_id != '':
+		# 	cmd_str+=',image="'+image_id+'"'
+		# cmd_str+=',profile_image='+str(card['user'].image)+''
+
 		# print cmd_str
 		card_record = cl.command(cmd_str)
+
 		friends = []
 		friends = cl.command('select expand(both("friends_with")) from Person where @rid='+card['user'].rid)
 		friends.extend(cl.command('select expand(in("follows")) from Person where @rid='+card['user'].rid))
@@ -366,6 +375,10 @@ def create_card(card_list=[]):
 			rec_id = card_record[0].rid
 			cl.command('create edge at from '+rec_id+' to '+card['rest'].rid)
 			cl.command('create edge creates from '+card['user'].rid+' to '+rec_id)
+			# Add food_image and profile image
+			if image_id != '':
+				cl.command('create edge has_uploaded_image from '+rec_id+' to '+image_id)
+			cl.command('create edge has_profile_image from '+rec_id+' to '+card['user'].image)
 			for friend in friends:
 				cl.command('create edge can_view from '+friend.rid+' to '+rec_id)
 
@@ -468,7 +481,7 @@ def create_random_users_csv(user_count=2):
 		res_list.extend(json.loads(response)[u'results'])
 	print len(res_list)
 
-	with open('data/new_random_users_nov24.csv', 'wb') as csvfile:
+	with open('data/new_random_users_jan6.csv', 'wb') as csvfile:
 		user_writer = csv.writer(csvfile, delimiter=',',quotechar='"', quoting=csv.QUOTE_MINIMAL)
 		user_writer.writerow(header)
 		for res_elem in res_list:
@@ -492,7 +505,7 @@ def create_random_users_csv(user_count=2):
 			user_writer.writerow(user_row)
 
 def create_images_for_users():
-	with open('data/new_random_users_nov24.csv', 'rU') as csvfile:
+	with open('data/new_random_users_jan6.csv', 'rU') as csvfile:
 		reader = csv.reader(csvfile)
 		img_list = []
    		headers = reader.next()

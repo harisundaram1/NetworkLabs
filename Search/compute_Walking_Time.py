@@ -51,7 +51,7 @@ def computeWalkingTime(rest_data, grid, hashgrid):
 
     cells = grid.keys()[0:2500]         # 3127 Batch 1 : 2500 (0-2499), Batch 2: 627 (2500-3126)
     rest_ids = rest_data.keys()         # 192
-    rest_groups = hashgrid.keys()[0]    # 97  Batch 1 : 37 (0-36), Batch 2: 30 (37-66), Batch 3: 30 (67-96)
+    rest_groups = hashgrid.keys()[40]    # 97  Batch 1 : 37 (0-36), Batch 2: 30 (37-66), Batch 3: 30 (67-96)
 
     rest = hashgrid[rest_groups][0]
 
