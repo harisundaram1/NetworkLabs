@@ -334,7 +334,7 @@ def create_activity_cards(users,creation_date=datetime.date.today()):
 		restaurant_list = get_restaurants_for_activities(user)
 		for restaurant in restaurant_list:
 			print user.first_name+' eats at '+restaurant.name+' on '+creation_date.strftime('%Y-%m-%d')
-			cmd_str = 'create edge eats_at from '+user.rid+' to '+restaurant.rid+' set created_at_datetime ="'+creation_date.strftime('%Y-%m-%d')+'", created_at="'+str(int(card['date'].strftime('%s'))*1000)+'"'
+			cmd_str = 'create edge eats_at from '+user.rid+' to '+restaurant.rid+' set created_at_datetime ="'+creation_date.strftime('%Y-%m-%d')+'", created_at="'+str(int(creation_date.strftime('%s'))*1000)+'"'
 			# print cmd_str
 			cl.command(cmd_str)
 			card_list.append({'user':user,'rest':restaurant,'date':creation_date})
