@@ -340,6 +340,11 @@ def create_activity_cards(users,creation_date=datetime.date.today()):
 			card_list.append({'user':user,'rest':restaurant,'date':creation_date})
 	create_card(card_list)
 
+def create_comment_likes(users,creation_date=datetime.date.today(),k=20):
+	for user in users:
+		generate_random_comments_and_likes(user,creation_date,k)
+
+
 def get_random_food_picture():
 	cl = connect()
 	images = cl.command('select from BinaryData where type="image" and category="food"')
@@ -533,14 +538,81 @@ def create_images_for_nodes(node_image_map):
 		new_rec = cl.command('create vertex BinaryData set type="'+b_type+'",category="'+b_category+'",data="'+encoded_str+'"')[0]
 		cl.command('Update Person set image='+str(new_rec.rid)+' where @rid='+user_id)
 
-def generate_random_comments(user,k=20):
-	# Given a user, get the count of comments he/she will be performing
-	# Fetch 'k' can view cards and then get the c	
-	comment_count = get_count_given_probability(user.prob_of_comment)
-	cl = connect()
-	cards = cl.command('select expand(out("can_view")) from Person where @rid='+user.rid)
+def generate_random_comments_and_likes(user,created_at,k=20):
+	# Given a user, get Can View cards and rank them by created date
+	# Get a probability p = 1-prob_of_comment
+	# start from r=1 and increment r till 1/r^2 <=p
+	# Get the count for these and for cards[0:count] insert a comment.
+	# Insert a comment and an edge comment.
+	# Repeat for likes
+	# If it is, then find index of that card
 	
-	# for i in xrange(0,comment_count):
+	cl = connect()
+	cmd_str = 'select from (select expand(out("can_view")) from Person where @rid='+user.rid+') order by @rid desc limit '+str(k)
+	# print cmd_str
+	cards = cl.command(cmd_str)
+	
+	# Comments
+	# p_of_comment = 1-user.prob_of_comment
+	comment_cards = []
+	for r in xrange(0,len(cards)):
+		p_of_comment = random.uniform(0,1)
+		inverse_rank = 1.0/math.pow(r+1,2)
+		# print 'inverse_rank',inverse_rank,'p_of_comment',p_of_comment
+		if p_of_comment<inverse_rank:
+			comment_cards.append(cards[r])
+
+	# print 'comment_count='+str(len(comment_cards))
+
+	for card in comment_cards:
+		card_likes = set(card.like_list)
+		user_comment = {
+						'first_name':user.first_name,
+						'last_name':user.last_name,
+						'create_at':str(int(created_at.strftime('%s'))*1000),
+						'text': 'This is a new comment',
+						'profile_image_id':user.image
+					}
+		user_like = {
+						'first_name':user.first_name,
+						'last_name':user.last_name,
+						'create_at':str(int(created_at.strftime('%s'))*1000),
+						'profile_image_id':user.image
+				}
+		card_likes.add(str(user_like))
+		card_likes = list(card_likes)
+		print user.first_name+' comments on card '+str(card.rid)
+		cmd_str = 'Update Card add comment_list = \''+json.dumps(user_comment)+'\' where @rid='+card.rid
+		# print cmd_str
+		cl.command(cmd_str)
+		cmd_str = 'Update Card set like_list = '+json.dumps(card_likes)+' where @rid='+card.rid
+		# print cmd_str
+		cl.command(cmd_str)
+
+	# Likes
+	like_cards = []
+	for r in xrange(0,len(cards)):
+		p_of_like = random.uniform(0,1)
+		inverse_rank = 1.0/(r+1)
+		# print 'inverse_rank',inverse_rank,'p_of_like',p_of_like
+		if p_of_like<inverse_rank:
+			like_cards.append(cards[r])
+	# print 'like_count='+str(len(like_cards))
+
+	for card in like_cards:
+		card_likes = set(card.like_list)
+		user_like = {
+				'first_name':user.first_name,
+				'last_name':user.last_name,
+				'create_at':str(int(created_at.strftime('%s'))*1000),
+				'profile_image_id':user.image
+		}
+		card_likes.add(str(user_like)) 
+		card_likes = list(card_likes)
+		print user.first_name+' likes card '+str(card.rid)
+		cmd_str = 'Update Card set like_list = '+json.dumps(card_likes)+' where @rid='+card.rid
+		# print cmd_str
+		cl.command(cmd_str)
 
 def update_users_network(users=[]):
 	if users.empty():
