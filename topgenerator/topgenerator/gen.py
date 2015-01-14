@@ -565,18 +565,19 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 	# print 'comment_count='+str(len(comment_cards))
 
 	for card in comment_cards:
+		comment_record = cl.command('Create edge comments from '+user.rid+' to '+card.rid)[0]
 		card_likes = set(card.like_list)
 		user_comment = {
 						'first_name':user.first_name,
 						'last_name':user.last_name,
-						'create_at':str(int(created_at.strftime('%s'))*1000),
+						'cer':str(int(created_at.strftime('%s'))*1000),
 						'text': 'This is a new comment',
 						'profile_image_id':user.image
 					}
 		user_like = {
 						'first_name':user.first_name,
 						'last_name':user.last_name,
-						'create_at':str(int(created_at.strftime('%s'))*1000),
+						'created_at':str(int(created_at.strftime('%s'))*1000),
 						'profile_image_id':user.image
 				}
 		card_likes.add(str(user_like))
@@ -600,11 +601,12 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 	# print 'like_count='+str(len(like_cards))
 
 	for card in like_cards:
+		comment_record = cl.command('Create edge likes from '+user.rid+' to '+card.rid)[0]
 		card_likes = set(card.like_list)
 		user_like = {
 				'first_name':user.first_name,
 				'last_name':user.last_name,
-				'create_at':str(int(created_at.strftime('%s'))*1000),
+				'created_at':str(int(created_at.strftime('%s'))*1000),
 				'profile_image_id':user.image
 		}
 		card_likes.add(str(user_like)) 
@@ -612,6 +614,13 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 		print user.first_name+' likes card '+str(card.rid)
 		cmd_str = 'Update Card set like_list = '+json.dumps(card_likes)+' where @rid='+card.rid
 		# print cmd_str
+		cl.command(cmd_str)
+
+def create_has_profile_image_edge(users):
+	cl = connect()
+	for user in users:
+		cmd_str = 'Create edge has_profile_image from '+user.rid+' to '+user.image
+		print cmd_str
 		cl.command(cmd_str)
 
 def update_users_network(users=[]):
