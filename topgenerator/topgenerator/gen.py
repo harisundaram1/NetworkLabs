@@ -363,7 +363,7 @@ def create_card(card_list=[]):
 		image_id = get_random_food_picture()
 		like_count = int(random.uniform(0,15))
 		comment_count = int(random.uniform(0,7))
-		cmd_str = 'create vertex Card set type="post",comment_count='+str(comment_count)+',comment_list=[],like_count='+str(like_count)+',like_list=[],people_involved=[],type="Eat",created_at="'+str(int(card['date'].strftime('%s'))*1000)+'",first_name="'+card['user'].first_name+'",last_name="'+card['user'].last_name+'",created_at_datetime="'+card['date'].strftime('%Y-%m-%d')+'",location_name="'+card['rest'].name+'",text="Eating at '+card['rest'].name+'"'
+		cmd_str = 'create vertex Card set type="post",comment_count='+str(comment_count)+',comment_list=[],like_count='+str(like_count)+',like_list=[],people_involved=[],created_at="'+str(int(card['date'].strftime('%s'))*1000)+'",first_name="'+card['user'].first_name+'",last_name="'+card['user'].last_name+'",created_at_datetime="'+card['date'].strftime('%Y-%m-%d')+'",location_name="'+card['rest'].name+'",text="Eating at '+card['rest'].name+'"'
 		
 		# OLD
 		# if image_id != '':
@@ -570,7 +570,7 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 		user_comment = {
 						'first_name':user.first_name,
 						'last_name':user.last_name,
-						'cer':str(int(created_at.strftime('%s'))*1000),
+						'created_at':str(int(created_at.strftime('%s'))*1000),
 						'text': 'This is a new comment',
 						'profile_image_id':user.image
 					}
@@ -580,7 +580,7 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 						'created_at':str(int(created_at.strftime('%s'))*1000),
 						'profile_image_id':user.image
 				}
-		card_likes.add(str(user_like))
+		card_likes.add(json.dumps(user_like))
 		card_likes = list(card_likes)
 		print user.first_name+' comments on card '+str(card.rid)
 		cmd_str = 'Update Card add comment_list = \''+json.dumps(user_comment)+'\' where @rid='+card.rid
@@ -609,7 +609,7 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 				'created_at':str(int(created_at.strftime('%s'))*1000),
 				'profile_image_id':user.image
 		}
-		card_likes.add(str(user_like)) 
+		card_likes.add(json.dumps(user_like)) 
 		card_likes = list(card_likes)
 		print user.first_name+' likes card '+str(card.rid)
 		cmd_str = 'Update Card set like_list = '+json.dumps(card_likes)+' where @rid='+card.rid
