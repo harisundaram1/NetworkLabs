@@ -363,7 +363,7 @@ def create_card(card_list=[]):
 		image_id = get_random_food_picture()
 		like_count = int(random.uniform(0,15))
 		comment_count = int(random.uniform(0,7))
-		cmd_str = 'create vertex Card set type="post",comment_count='+str(comment_count)+',comment_list=[],like_count='+str(like_count)+',like_list=[],people_involved=[],created_at="'+str(int(card['date'].strftime('%s'))*1000)+'",first_name="'+card['user'].first_name+'",last_name="'+card['user'].last_name+'",created_at_datetime="'+card['date'].strftime('%Y-%m-%d')+'",location_name="'+card['rest'].name+'",text="Eating at '+card['rest'].name+'"'
+		cmd_str = 'create vertex Card set display_type="post",comment_count='+str(comment_count)+',comment_list=[],like_count='+str(like_count)+',like_list=[],people_involved=[],created_at="'+str(int(card['date'].strftime('%s'))*1000)+'",first_name="'+card['user'].first_name+'",last_name="'+card['user'].last_name+'",created_at_datetime="'+card['date'].strftime('%Y-%m-%d')+'",location_name="'+card['rest'].name+'"'
 		
 		# OLD
 		# if image_id != '':
