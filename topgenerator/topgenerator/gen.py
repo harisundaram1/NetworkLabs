@@ -566,7 +566,12 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 
 	for card in comment_cards:
 		comment_record = cl.command('Create edge comments from '+user.rid+' to '+card.rid)[0]
-		card_likes = set(card.like_list)
+		try:
+			card_likes = set(card.like_list)
+		except Exception, e:
+			print e
+			card_likes = set()
+
 		user_comment = {
 						'first_name':user.first_name,
 						'last_name':user.last_name,
@@ -602,7 +607,10 @@ def generate_random_comments_and_likes(user,created_at,k=20):
 
 	for card in like_cards:
 		comment_record = cl.command('Create edge likes from '+user.rid+' to '+card.rid)[0]
-		card_likes = set(card.like_list)
+		try:
+			card_likes = set(card.like_list)
+		except Exception, e:
+			print e
 		user_like = {
 				'first_name':user.first_name,
 				'last_name':user.last_name,
