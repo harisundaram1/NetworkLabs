@@ -32,14 +32,15 @@ def get_distance(srclat, srclong, dstlat, dstlong):
 
 def read_json_dumps():
     '''Function to read the json dumps and build the hashes'''
-    path = '/home/moontails/work/bramach2/'
+    #Replace the path accordingly
+    path = '/Users/moontails/NetworkLabs/Search/'
     grid_points = json.load(open(path + 'grid_points'))
     grid_cells = json.load(open(path + 'grid_cells'))
     grid_hash = json.load(open(path + 'grid_hash'))
     return (grid_points, grid_cells, grid_hash)
 
 def read_csv():
-    data_path = '/home/moontails/work/data/'
+    data_path = '/Users/moontails/NetworkLabs/distance_data/'
     files = os.listdir(data_path)
     temp = []
     for filename in files:
@@ -75,10 +76,14 @@ def rest_dict(grid_hash):
             result[item[0]] = item[1]
     return result
 
-def predict_using_svm(X, Y, test_data):
+def predict_using_svm(train_data, test_data):
     '''Fitting a classifier using SVM Regression and predicting the values
             using linear kernel and perform five fold cross validation
     '''
+    print "\nPredicting using SVM"
+    X = [ [i] for i in train_data.keys() ]
+    Y = train_data.values()
+
     classifier = svm.SVR(kernel='linear')
     classifier.fit(X,Y)
     print "Starting the predictions"
@@ -86,31 +91,23 @@ def predict_using_svm(X, Y, test_data):
     for distance in test_data:
         test_data[distance] = classifier.predict([distance])
 
-    scores = cross_validation.cross_val_score(classifier, X, Y, cv=5)
+    #Dump the values
+    print "\nDumping the training and test data"
+    dump_csv(train_data, "Train.csv")
+    dump_csv(test_data, "Test.csv")
+    #scores = cross_validation.cross_val_score(classifier, X, Y, cv=5)
 
-    print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
+    #print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
 
 def drawGridPoints(X, Y):
     '''Function - to plot the points forming the grid'''
     plt.plot(X,Y)
     plt.show()
 
-if __name__ == "__main__":
-    #Read the saved json dumps
-    grid_points, grid_cells, grid_hash = read_json_dumps()
-
-    #Read the csv files data - this is the csv produced by the compute walking time script
-    data_list = read_csv()
-
-    #To store the distance and walkign time computed in training
-    train_data = defaultdict()
-
-    #To store the distance and walkign time to be computed using training
-    test_data = defaultdict()
-
-    #To hold all possible distances
-    distance_hash = defaultdict()
-
+def load_distances_to_hash(grid_cells):
+    # Return the test and total distance hash
+    t_hash = defaultdict()
+    d_hash = defaultdict()
     for cell_center in grid_cells:
         dst_geo = grid_cells[cell_center]
         dstlat,dstlong = float(dst_geo[0]),float(dst_geo[1])
@@ -119,12 +116,12 @@ if __name__ == "__main__":
             src_geo = grid_points[res_id][1]
             srclat,srclong = float(src_geo[0]),float(src_geo[1])
             distance = int(get_distance(srclat, srclong, dstlat, dstlong))
-            distance_hash[distance] = 0
-            test_data[distance] = 0
+            d_hash[distance] = 0
+            t_hash[distance] = 0
 
-    #print len(points)
-    print "Number of unique distance values:", len(distance_hash)
+    return t_hash,d_hash
 
+def compute_training_data(grid_points,distance_hash,train_data,test_data):
     for item in data_list:
         res_id    = item['res_id']
         #points[item['cell_center']] = 1
@@ -143,25 +140,38 @@ if __name__ == "__main__":
         if distance in test_data:
             del test_data[distance]
 
+if __name__ == "__main__":
+    #Read the saved json dumps
+    grid_points, grid_cells, grid_hash = read_json_dumps()
 
+    #Read the csv files data - this is the csv produced by the compute walking time script
+    data_list = read_csv()
 
-    print "Number of walking time values computed:", len(train_data)
-    print "Number of unique distance values: (Sanity Check)", len(distance_hash)
-    print "Number of walking time values to be computed:", len(test_data)
+    #To store the distance and walkign time computed in training
+    train_data = defaultdict()
 
-    x = [ [i] for i in train_data.keys() ]
-    y = train_data.values()
-    print y[0]
-    predict_using_svm(x, y, test_data)
+    #To store the distance and walkign time to be computed using training and To hold all possible distances
+    test_data,distance_hash = load_distances_to_hash(grid_cells)
+
+    print "\nNumber of unique distance values:", len(distance_hash)
+
+    #Populate the training data and remove them from test data
+    compute_training_data(grid_points,distance_hash,train_data,test_data)
+
+    print "\nNumber of walking time values computed:", len(train_data)
+    print "\nNumber of unique distance values: (Sanity Check)", len(distance_hash)
+    print "\nNumber of walking time values to be computed:", len(test_data)
+
+    # Predict using SVM
+    predict_using_svm(train_data, test_data)
 
     for distance in test_data:
         distance_hash[distance] = test_data[distance]
 
-    five_fold_validation(distance_hash)
+    #five_fold_validation(distance_hash)
     # Visualizing the inputs
     #drawGridPoints(train_data.keys(),train_data.values())
 
     # Saving the Data
-    #dump_csv(train_data, "Train.txt")
-    #dump_csv(test_data, "Test.txt")
-    #dump_csv(distance_hash, "Total.txt")
+    print "\nDumping the full data"
+    dump_csv(distance_hash, "Total.txt")
