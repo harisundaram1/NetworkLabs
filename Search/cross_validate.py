@@ -21,11 +21,26 @@ def cross_validate(data):
 
     X = [ [i] for i in data.keys() ]
     Y = data.values()
-    X_train, X_test, y_train, y_test = cross_validation.train_test_split(X, Y, test_size=0.2, random_state=0)
-    print "Finished splitting the data,evaluating now"
-    clf = svm.SVC(kernel='linear', C=1).fit(X_train, y_train)
-    print "Finished fitting the data and cross validating"
-    print clf.score(X_test, y_test)
+    Errors = []
+    for i in range(5):
+        print "Round:",i
+        X_train, X_test, y_train, y_test = cross_validation.train_test_split(X, Y, test_size=0.2, random_state=0)
+
+        print "Finished splitting the data,evaluating now"
+        classifier = svm.SVR(kernel='linear')
+        classifier.fit(X_train, y_train)
+        #print "Finished fitting the data and cross validating"
+        #print clf.score(X_test, y_test)
+
+        print "Making the predictions and calculating the results"
+        error = []
+        
+        for j in range(len(X_test)):
+            error.append( classifier.predict(X_test[j]) - y_test[j] )
+
+        Errors.append(float(sum(error))/len(error))
+
+    print "Average Error is ",Errors
 
 
 if __name__ == "__main__":
