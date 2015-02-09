@@ -3,15 +3,15 @@ import topgenerator as tp
 import datetime
 import cProfile, pstats, StringIO
 
-# tp.clear_network()
-# # tp.create_restaurants()
-# try:
-# 	tp.create_binary_data()
-# except Exception, e:
-# 	print "Image saving timed out"
-# else:
-# 	print 'Image saving completed'
-# tp.generate_friends_network(100,3,0.1,"small")
+tp.clear_network()
+# tp.create_restaurants()
+try:
+	tp.create_binary_data()
+except Exception, e:
+	print "Image saving timed out"
+else:
+	print 'Image saving completed'
+tp.generate_friends_network(100,3,0.1,"small")
 cl = tp.connect()
 # Create profile Image
 cmd_str = 'select * from Person'

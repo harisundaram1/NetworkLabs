@@ -426,7 +426,7 @@ def get_cosine_similarity_for_users(users):
 
 def get_exception_users():
 	cl = connect()
-	users = cl.command('Select from Person where first_name in ["Pranav","Cheng Han","Balachander","Sanjana","Hari"]')
+	users = cl.command('Select from Person where first_name in ["Pranav","Cheng Han","Balachander","Sanjana","Hari","Kaarthik","Urmila"]')
 	return users
 
 def get_exception_user_rid():
