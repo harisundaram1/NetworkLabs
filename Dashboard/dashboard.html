@@ -85,10 +85,120 @@
               <div class="tab-pane" id="network">
                 <h2 class="page-header">Network Configurations</h2>
                 <p class="lead">
-                You can find information regarding my resume and how to connect with me.
-                <br>
-                Please use the tabs to navigate and find the respective info!
-                </p>
+                  Control the network topology, database creation and other network parameters
+                
+                  <div class="container">
+                  <form class="form-horizontal">
+                      <h4 class="page-header">Database</h4>
+                      <div class="form-group ">
+
+                        <label for="list1" class="col-sm-4 control-label">Enter database to be created</label>
+                        <div class="col-sm-2">
+                         <input type="text" class="form-control" id="list1" placeholder="database name">
+                        </div>
+
+                      </div>
+
+                      <div class="form-group ">
+
+                        <label for="list1" class="col-sm-4 control-label">Select classes to be created</label>
+                        <div class="col-sm-2">
+                          <div class="checkbox">
+                            <label><input type="checkbox"> Person</label><br>
+                            <label><input type="checkbox"> Base Entity</label><br>
+                            <label><input type="checkbox"> Card
+                            </label>
+                          </div>
+                        </div>
+
+                      </div>
+
+                      <h4 class="page-header">Network Controls</h4>
+                      <div class="form-group ">
+
+                        <label for="list4" class="col-sm-4 control-label">Enter the number of users</label>
+                        <div class="col-sm-2">
+                          <input type="text" class="form-control" id="list4" placeholder="number of users"> 
+                        </div>
+
+                      </div>
+                      <div class="form-group ">
+
+                        <label for="list5" class="col-sm-4 control-label">Select the network topology</label>
+                        <div class="col-sm-2">
+                          <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                              Select 
+                              <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Small World</a></li>
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Power Law</a></li>
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Random Network</a></li>
+                            </ul>
+                          </div>
+                        </div>
+
+                      </div>
+                      <div class="form-group ">
+
+                        <label for="list6" class="col-sm-4 control-label">Enter number of friends for each user:</label>
+                        <div class="col-sm-2">
+                          <input type="text" class="form-control" id="list6" placeholder="number of friends">
+                        </div>
+
+                      </div>
+
+                      <div class="form-group ">
+
+                        <label for="list6" class="col-sm-4 control-label">Recalibrate Information Network</label>
+                        <div class="col-sm-2">
+                          <label><input type="radio" class="form-control" id="IN_yes"> Yes</label>
+                          <label><input type="radio" class="form-control" id="IN_no"> No</label>
+                        </div>
+
+                      </div>
+
+                      <h4 class="page-header">Special Cases</h4>
+
+                      <div class="form-group ">
+
+                        <label for="list7" class="col-sm-4 control-label">Add a single user</label>
+                        <div class="col-sm-2">
+                          <input type="text" class="form-control" id="list7" placeholder="username">
+                        </div>
+
+                      </div>
+                      <div class="form-group ">
+
+                        <label for="list8" class="col-sm-4 control-label">Add custom friends</label>
+                        <div class="col-sm-2">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
+                        </div>
+
+                      </div>
+                      <div class="form-group ">
+
+                        <label for="list9" class="col-sm-4 control-label">Clear Network</label>
+                        <div class="col-sm-2">
+                          <div class="checkbox">
+                            <label><input type="checkbox"> Yes</label><br>
+                          </div>
+                        </div>
+                      </div>
+                    
+                      <div class="form-group">
+                        <div class="col-sm-offset-3">
+                          <button type="submit" class="btn btn-primary col-sm-3">Submit</button>
+                        </div>
+                      </div>
+
+                  </form>
+                </div>
+
               </div>
 
               <div class="tab-pane" id="information">
@@ -101,25 +211,33 @@
                       <h4 class="page-header">Message Type</h4>
                       <div class="form-group ">
 
-                        <label for="list1" class="col-sm-4 control-label">List of users who get positive messages:</label>
+                        <label for="list1" class="col-sm-5 control-label">List of users who get positive messages:</label>
                         <div class="col-sm-2">
-                         <input type="email" class="form-control" id="list1" placeholder="User List">
+                         <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
                       <div class="form-group ">
 
-                        <label for="list2" class="col-sm-4 control-label">List of users who get negative messages</label>
+                        <label for="list2" class="col-sm-5 control-label">List of users who get negative messages</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list2" placeholder="User List">
-                        </div>
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>                        </div>
 
                       </div>
                       <div class="form-group ">
 
-                        <label for="list3" class="col-sm-4 control-label">List of users who get neutral messages</label>
+                        <label for="list3" class="col-sm-5 control-label">List of users who get neutral messages</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list3" placeholder="User List">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
@@ -129,7 +247,10 @@
 
                         <label for="list4" class="col-sm-5 control-label">List of people who get messages bases on weekly aggregates</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list4" placeholder="User List"> 
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
@@ -137,7 +258,10 @@
 
                         <label for="list5" class="col-sm-5 control-label">List of users who get messages based on monthly aggregates</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list5" placeholder="User List">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
@@ -145,7 +269,10 @@
 
                         <label for="list6" class="col-sm-5 control-label">List of users who get messages based on all time aggregates</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list6" placeholder="User List">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
@@ -156,7 +283,10 @@
 
                         <label for="list7" class="col-sm-5 control-label">List of users who get spatial stats</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list7" placeholder="User List">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
@@ -164,7 +294,10 @@
 
                         <label for="list8" class="col-sm-5 control-label">List of users who get messages based on network aggregates</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list8" placeholder="User List">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
@@ -172,14 +305,20 @@
 
                         <label for="list9" class="col-sm-5 control-label">List of users who get messages with images</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list9" placeholder="User List">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
                       </div>
                       <div class="form-group ">
 
                         <label for="list10" class="col-sm-5 control-label">List of users who get messages that have tables and charts</label>
                         <div class="col-sm-2">
-                          <input type="email" class="form-control" id="list10" placeholder="User List">
+                          <div class="container">
+                            <input type="file" id="friendInputFile">
+                            <p class="help-block">Input file with user names</p>
+                          </div>
                         </div>
 
                       </div>
@@ -215,7 +354,7 @@
       <div class="container" style="text-align: center">
         <br>
         <p>Designed and built with all the love in the world by Network Labs</p>
-        <p>For any suggestions please contact username@email</p>
+        <p>For any suggestions please contact username@text</p>
       </div>
     </footer> 
     <!-- Bootstrap core JavaScript
