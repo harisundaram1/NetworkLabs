@@ -48,10 +48,10 @@ def readJsonDumps():
 # Function - compute the walking times
 def computeWalkingTime(rest_data, grid, hashgrid):
     print "\nBeginning to compute the walking time"
-
-    cells = grid.keys()[0:2500]         # 3127 Batch 1 : 2500 (0-2499), Batch 2: 627 (2500-3126)
+    index = 49
+    cells = grid.keys()[0:2400]         # 3127 Batch 1 : 2500 (0-2499), Batch 2: 627 (2500-3126)
     rest_ids = rest_data.keys()         # 192
-    rest_groups = hashgrid.keys()[40]    # 97  Batch 1 : 37 (0-36), Batch 2: 30 (37-66), Batch 3: 30 (67-96)
+    rest_groups = hashgrid.keys()[index]    # 97  Batch 1 : 37 (0-36), Batch 2: 30 (37-66), Batch 3: 30 (67-96)
 
     rest = hashgrid[rest_groups][0]
 
@@ -85,7 +85,7 @@ def computeWalkingTime(rest_data, grid, hashgrid):
             time.sleep(15)
 
     # save data in csv with current timestamp as filename
-    filename = str(datetime.datetime.now()) + ".csv"
+    filename =  str(index) + "-" +str(datetime.datetime.now()) + ".csv" 
     writeData(filename, data)
 
 # Function - to save the data as a csv
