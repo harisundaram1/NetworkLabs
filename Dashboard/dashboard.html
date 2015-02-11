@@ -79,6 +79,8 @@
                 <br><br>
                 Please use the tabs to navigate and select the various configurations available.
                 Once you have finalized the onfiguraton, a config file will be generated upon submission. This will then be sent to the server and used to build the app.
+                <br><br>
+                You can configure each of these settings independently and submit them for the server to start processing them.
                 </p>
               </div>
 
@@ -93,8 +95,11 @@
                       <div class="form-group ">
 
                         <label for="list1" class="col-sm-4 control-label">Enter database to be created</label>
-                        <div class="col-sm-2">
-                         <input type="text" class="form-control" id="list1" placeholder="database name">
+                        <div class="col-sm-3">
+                          <div class="input-group">
+                            <input type="text" class="form-control" id="list1" placeholder="database name">
+                            <span class="input-group-addon">Ex - app_name</span>
+                          </div>
                         </div>
 
                       </div>
@@ -117,8 +122,11 @@
                       <div class="form-group ">
 
                         <label for="list4" class="col-sm-4 control-label">Enter the number of users</label>
-                        <div class="col-sm-2">
-                          <input type="text" class="form-control" id="list4" placeholder="number of users"> 
+                        <div class="col-sm-3">
+                          <div class="input-group">
+                            <input type="text" class="form-control" id="list4" placeholder="number of users"> 
+                            <span class="input-group-addon">Ex - 1000</span>
+                          </div>
                         </div>
 
                       </div>
@@ -126,15 +134,15 @@
 
                         <label for="list5" class="col-sm-4 control-label">Select the network topology</label>
                         <div class="col-sm-2">
-                          <div class="dropdown">
+                          <div class="dropdown dropdown-select">
                             <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
                               Select 
                               <span class="caret"></span>
                             </button>
                             <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Small World</a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Power Law</a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Random Network</a></li>
+                              <li role="presentation"><a role="menuitem" tabindex="-1">Small World</a></li>
+                              <li role="presentation"><a role="menuitem" tabindex="-1">Power Law</a></li>
+                              <li role="presentation"><a role="menuitem" tabindex="-1">Random Network</a></li>
                             </ul>
                           </div>
                         </div>
@@ -143,8 +151,11 @@
                       <div class="form-group ">
 
                         <label for="list6" class="col-sm-4 control-label">Enter number of friends for each user:</label>
-                        <div class="col-sm-2">
-                          <input type="text" class="form-control" id="list6" placeholder="number of friends">
+                        <div class="col-sm-3">
+                          <div class="input-group">
+                            <input type="text" class="form-control" id="list6" placeholder="number of friends">
+                            <span class="input-group-addon">Ex - 30</span>
+                          </div>
                         </div>
 
                       </div>
@@ -153,8 +164,10 @@
 
                         <label for="list6" class="col-sm-4 control-label">Recalibrate Information Network</label>
                         <div class="col-sm-2">
-                          <label><input type="radio" class="form-control" id="IN_yes"> Yes</label>
-                          <label><input type="radio" class="form-control" id="IN_no"> No</label>
+                          <div class="checkbox">
+                            <label class="radio"><input type="radio" name="IN" id="IN_yes" value="yes"> Yes</label>
+                            <label class="radio"><input type="radio" name="IN" id="IN_no" value="no" checked> No</label>
+                          </div>
                         </div>
 
                       </div>
@@ -164,8 +177,11 @@
                       <div class="form-group ">
 
                         <label for="list7" class="col-sm-4 control-label">Add a single user</label>
-                        <div class="col-sm-2">
-                          <input type="text" class="form-control" id="list7" placeholder="username">
+                        <div class="col-sm-3">
+                          <div class="input-group">
+                            <input type="text" class="form-control" id="list7" placeholder="username">
+                            <span class="input-group-addon">Ex - username</span>
+                          </div>
                         </div>
 
                       </div>
@@ -338,9 +354,7 @@
               <div class="tab-pane" id="incentive">
                 <h2 class="page-header">Incentive Scheme</h2>
                 <p class="lead">
-                You can find information regarding my resume and how to connect with me.
-                <br>
-                Please use the tabs to navigate and find the respective info!
+                Find settings to adjust the levels of incentiveness.
                 </p>
               </div>
 
@@ -363,5 +377,16 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>  
 	<script src="bootstrap-3.2.0-dist/js/holder.js"></script>
+  <script type="text/javascript"> 
+  $('.dropdown-select').on( 'click', '.dropdown-menu li a', function() { 
+     var target = $(this).html();
+
+     //Adds active class to selected item
+     $(this).parents('.dropdown-menu').find('li').removeClass('active');
+     $(this).parent('li').addClass('active');
+
+     //Displays selected text on dropdown-toggle button
+     $(this).parents('.dropdown-select').find('.dropdown-toggle').html(target + ' <span class="caret"></span>');
+  });</script>
   </body>
 </html>
