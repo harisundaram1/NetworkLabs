@@ -90,7 +90,7 @@
                   Control the network topology, database creation and other network parameters
                 
                   <div class="container">
-                  <form class="form-horizontal" action="http://127.0.0.1:5000/submit_config" method="POST">
+                  <form class="form-horizontal" action="http://127.0.0.1:5000/network_config" method="POST" enctype="multipart/form-data">
                       <h4 class="page-header">Database</h4>
                       <div class="form-group ">
 
@@ -185,7 +185,7 @@
                         <label for="list8" class="col-sm-4 control-label">Add custom friends</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="custom_friends">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -203,7 +203,7 @@
                     
                       <div class="form-group">
                         <div class="col-sm-offset-3">
-                          <input type="submit" class="btn btn-primary col-sm-3" name="my-form" value="Send">
+                          <input type="submit" class="btn btn-primary col-sm-3" name="network-form" value="Send">
                         </div>
                       </div>
 
@@ -218,14 +218,14 @@
                   Find settings to configure how the information is displayed to the user.
 
                   <div class="container">
-                  <form class="form-horizontal">
+                  <form class="form-horizontal" action="http://127.0.0.1:5000/info_display_config" method="POST" enctype="multipart/form-data">
                       <h4 class="page-header">Message Type</h4>
                       <div class="form-group ">
 
                         <label for="list1" class="col-sm-5 control-label">List of users who get positive messages:</label>
                         <div class="col-sm-2">
                          <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="positive_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -236,7 +236,7 @@
                         <label for="list2" class="col-sm-5 control-label">List of users who get negative messages</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="negative_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>                        </div>
 
@@ -246,7 +246,7 @@
                         <label for="list3" class="col-sm-5 control-label">List of users who get neutral messages</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="neutral_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -259,7 +259,7 @@
                         <label for="list4" class="col-sm-5 control-label">List of people who get messages bases on weekly aggregates</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="weekly_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -270,7 +270,7 @@
                         <label for="list5" class="col-sm-5 control-label">List of users who get messages based on monthly aggregates</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="monthly_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -281,7 +281,7 @@
                         <label for="list6" class="col-sm-5 control-label">List of users who get messages based on all time aggregates</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="all_time_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -295,7 +295,7 @@
                         <label for="list7" class="col-sm-5 control-label">List of users who get spatial stats</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="spatial_stats_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -306,7 +306,7 @@
                         <label for="list8" class="col-sm-5 control-label">List of users who get messages based on network aggregates</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="network_stats_messages">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -317,7 +317,7 @@
                         <label for="list9" class="col-sm-5 control-label">List of users who get messages with images</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="messages_with_images">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -327,7 +327,7 @@
                         <label for="list10" class="col-sm-5 control-label">List of users who get messages that have tables and charts</label>
                         <div class="col-sm-2">
                           <div class="container">
-                            <input type="file" id="friendInputFile">
+                            <input type="file" id="friendInputFile" name="messages_with_tables">
                             <p class="help-block">Input file with user names</p>
                           </div>
                         </div>
@@ -336,7 +336,7 @@
                     
                       <div class="form-group">
                         <div class="col-sm-offset-3">
-                          <button type="submit" class="btn btn-primary col-sm-3">Submit</button>
+                          <input type="submit" class="btn btn-primary col-sm-3" name="info-display-form" value="Send">
                         </div>
                       </div>
 
