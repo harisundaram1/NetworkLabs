@@ -126,7 +126,7 @@ def network_config():
 	outfile.write(output_xml)
 	outfile.close()
 
-	return "Posted"
+	return "Success! Network configurations saved"
 
 @app.route('/info_display_config', methods=['POST'])
 def info_display_config():
@@ -248,7 +248,7 @@ def info_display_config():
 	outfile.write(output_xml)
 	outfile.close()
 
-	return "Posted"
+	return "Success! Information Display configurations saved"
 
 if __name__ == '__main__':
 	app.debug = True
