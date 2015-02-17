@@ -16,7 +16,13 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 def allowed_file(filename):
-	return '.' in filename and filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS 
+	return '.' in filename and filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
+
+@app.route('/')
+def hello():
+    return render_template('dashboard.html')
+
+
 
 @app.route('/network_config', methods=['POST'])
 def network_config():
@@ -29,38 +35,38 @@ def network_config():
 	comment = Comment('Config File for Network')
 	top.append(comment)
 
-	# Checking for null values 
-	#   - if not null then extract value and add it to xml tree 
+	# Checking for null values
+	#   - if not null then extract value and add it to xml tree
 
 	if request.form['db_name']:
 		db_name = request.form['db_name']
-		
+
 		if debug: print db_name
-		
+
 		child = SubElement(top, 'Database_Name')
 		child.text = db_name
 
 	if request.form.get('person'):
 		person = request.form['person']
-		
+
 		if debug: print person
-		
+
 		child = SubElement(top, 'Person')
 		child.text = person
 
 	if request.form.get('base_entity'):
 		base_entity = request.form['base_entity']
-		
+
 		if debug: print base_entity
-		
+
 		child = SubElement(top, 'Base_Entity')
 		child.text = base_entity
 
 	if request.form.get('card'):
 		card = request.form['card']
-		
+
 		if debug: print card
-		
+
 		child = SubElement(top, 'Card')
 		child.text = card
 
@@ -72,17 +78,17 @@ def network_config():
 
 	if request.form['network_type'] != "no":
 		network_type = request.form['network_type']
-		
+
 		if debug: print network_type
-		
+
 		child = SubElement(top, 'Network_Topology')
 		child.text = network_type
 
 	if request.form['num_friends']:
 		num_friends = request.form['num_friends']
-		
+
 		if debug:  print num_friends
-		
+
 		child = SubElement(top, 'Num_of_friends')
 		child.text = num_friends
 
@@ -95,7 +101,7 @@ def network_config():
 		single_user = request.form['single_user']
 
 		if debug: print single_user
-		
+
 		child = SubElement(top, 'Single_User')
 		child.text = single_user
 

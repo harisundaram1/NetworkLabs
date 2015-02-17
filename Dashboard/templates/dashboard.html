@@ -11,7 +11,7 @@
     <title>Dashboard</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="bootstrap-3.2.0-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href= "{{ url_for('static',filename='bootstrap-3.2.0-dist/css/bootstrap.min.css') }}" rel="stylesheet">
     <style>
           html {
         position: relative;
@@ -55,11 +55,11 @@
     </div>
 
 		<div class="container-fluid">
-      
+
       <div class="row">
-        
+
         <div class="col-md-8 col-md-offset-2">
-          
+
           <h1>Dashboard - Configure your apps!</h1>
           <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist" align="center">
@@ -68,7 +68,7 @@
             <li><a href="#information" role="tab" data-toggle="tab">Information Display</a></li>
             <li><a href="#incentive" role="tab" data-toggle="tab">Incentive Scheme</a></li>
             </ul>
-          
+
           <!-- Tab panes -->
             <div class="tab-content">
 
@@ -88,7 +88,7 @@
                 <h2 class="page-header">Network Configurations</h2>
                 <p class="lead">
                   Control the network topology, database creation and other network parameters
-                
+
                   <div class="container">
                   <form class="form-horizontal" action="http://127.0.0.1:5000/network_config" method="POST" enctype="multipart/form-data">
                       <h4 class="page-header">Database</h4>
@@ -124,7 +124,7 @@
                         <label for="list4" class="col-sm-4 control-label">Enter the number of users</label>
                         <div class="col-sm-3">
                           <div class="input-group">
-                            <input type="text" class="form-control" id="list4" placeholder="number of users" name="num_users"> 
+                            <input type="text" class="form-control" id="list4" placeholder="number of users" name="num_users">
                             <span class="input-group-addon">Ex - 1000</span>
                           </div>
                         </div>
@@ -200,7 +200,7 @@
                           </div>
                         </div>
                       </div>
-                    
+
                       <div class="form-group">
                         <div class="col-sm-offset-3">
                           <input type="submit" class="btn btn-primary col-sm-3" name="network-form" value="Send">
@@ -333,7 +333,7 @@
                         </div>
 
                       </div>
-                    
+
                       <div class="form-group">
                         <div class="col-sm-offset-3">
                           <input type="submit" class="btn btn-primary col-sm-3" name="info-display-form" value="Send">
@@ -365,15 +365,15 @@
         <p>Designed and built with all the love in the world by Network Labs</p>
         <p>For any suggestions please contact username@text</p>
       </div>
-    </footer> 
+    </footer>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>  
-	<script src="bootstrap-3.2.0-dist/js/holder.js"></script>
-  <script type="text/javascript"> 
-  $('.dropdown-select').on( 'click', '.dropdown-menu li a', function() { 
+    <script src="{{ url_for('static',filename='bootstrap-3.2.0-dist/js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='bootstrap-3.2.0-dist/js/bootstrap.min.js') }}"></script>
+	<script src="{{ url_for('static',filename='bootstrap-3.2.0-dist/js/holder.js') }}"></script>
+  <script type="text/javascript">
+  $('.dropdown-select').on( 'click', '.dropdown-menu li a', function() {
      var target = $(this).html();
 
      //Adds active class to selected item

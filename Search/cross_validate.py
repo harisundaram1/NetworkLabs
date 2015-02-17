@@ -34,7 +34,7 @@ def cross_validate(data):
 
         print "Making the predictions and calculating the results"
         error = []
-        
+
         for j in range(len(X_test)):
             error.append( classifier.predict(X_test[j]) - y_test[j] )
 
