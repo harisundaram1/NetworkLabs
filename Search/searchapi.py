@@ -180,7 +180,7 @@ def run_distance_query(result, max_walk_time):
 	distances_list = []
 
 	for item in result:
-		distances_list.append(item["distance"])
+		distances_list.append(result[item]["distance"])
 
 	# query to get the corresponsing walking times in one go
 	sql_query = "SELECT distance,walk_time FROM WalkingTimes where distance in " + str(distances_list) + " and walk_time<=" + str(max_walk_time)
@@ -196,10 +196,13 @@ def run_distance_query(result, max_walk_time):
 	distances_hash = dist_item_unpack(res)
 	
 	for item in result:
+		# Get the distance of the current object
 		distance = int(result[item]['distance'])
+		
+		# Get the corresponding walking time and store it in our result dictionary
 		result[item]['walk_time'] = distances_hash[distance]
 
-	# return the result back which now has walking times 
+	# return the result back which now has walking times as well
 	return result
 
 def search(uid, query='', srcLat='', srcLong='', distanceFlag=0):
