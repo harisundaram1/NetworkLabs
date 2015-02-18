@@ -64,7 +64,7 @@ def get_duration(srclat, srclong, dstlat, dstlong):
 		print "Error",json_data['status']
         	return 99999
 
-def item_unpack(item):
+def rest_item_unpack(item):
 	'''Function to unpack a pyorient item'''
 	#print "Unpacking item"
 	#'health_index' : "{0:.2f}".format(item.health_index*10) #incase we need health index
@@ -99,7 +99,7 @@ def run_query(query='', srcLat='', srcLong='', distanceFlag=0):
 	# Iterating to construct the results dictionary.
         for item in res:
                 # unpack the item
-		results[item.rid] = item_unpack(item)
+		results[item.rid] = rest_item_unpack(item)
 		if distanceFlag:
 			dstLat = float(item.latitude)
 	                dstLong = float(item.longitude)
@@ -165,8 +165,42 @@ def get_max_walk_time(time_limit):
 
 	return max_walk_time
 
-def get_walking_times(srcLat, srcLong):
+def dist_item_unpack(res):
+	# Create a dictionary to hold all distance - walk times
+	temp = defaultdict()
+	
+	for item in res:
+		temp[item.distance] = item.walk_time
 
+	# return this dictionary
+	return temp
+
+def run_distance_query(result, max_walk_time):
+	# to collect all distances
+	distances_list = []
+
+	for item in result:
+		distances.append(item["distance"])
+
+	# query to get the corresponsing walking times in one go
+	sql_query = "SELECT distance,walk_time FROM WalkingTimes where distance in " + str(distances) + " and walk_time<=" + str(max_walk_time)
+	
+	# Create a client for connecting to the database
+	client = connect()
+
+        # Run the query
+        res = client.command(sql_query)
+        print "Query executed successfully: " + sql_query
+
+	# Store the unpacked result in a dictionary
+	distances_hash = dist_item_unpack(res)
+	
+	for item in result:
+		distance = int(result[item]['distance'])
+		result[item]['walk_time'] = distances_hash[distance]
+
+	# return the result back which now has walking times 
+	return result
 
 def search(uid, query='', srcLat='', srcLong='', distanceFlag=0):
 	'''Function to search based on the parameters sent'''
@@ -176,8 +210,8 @@ def search(uid, query='', srcLat='', srcLong='', distanceFlag=0):
 	dollar_limit, time_limit = get_constraints(uid)
 	#print dollar_limit, time_limit
 
-	# obtain the max time based on user specification
-	max_walk_time = get_max_walk_time(time_limit)
+	# obtain the max time based on user specification and convert to seconds
+	max_walk_time = get_max_walk_time(time_limit) * 60.0
 
 	# hash the co-ordinated if present to the grid and get the walking times
 	if srcLat != '' and srcLong != '':
@@ -193,7 +227,9 @@ def search(uid, query='', srcLat='', srcLong='', distanceFlag=0):
 
 	# Sort by distance when the user geo location is present, else sort by the health options
 	if distanceFlag:
-		result = sorted(result.values(), key=lambda x:int(x["distance"]))[:5]
+		# pruning over max walking time here.
+		result = run_distance_query(result, max_walk_time)
+		result = sorted(result.values(), key=lambda x:int(x["walk_time"]))[:5]
 	else:
 		result = sorted(result.values(), key=lambda x:int(x["health_option"]), reverse=True)[:5]
 	print "Finished sorting to the obtain top 5 results"
