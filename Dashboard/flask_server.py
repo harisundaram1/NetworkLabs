@@ -186,6 +186,14 @@ def info_display_config():
 		child = SubElement(top, 'Threshold_Hierarchy')
 		child.text = threshold_hierarchy
 
+	if request.form['flickr_api']:
+		flickr_api = request.form['flickr_api']
+
+		if debug: print threshold_hierarchy
+
+		child = SubElement(top, 'Flickr_API_Key')
+		child.text = flickr_api
+
 	if request.method == 'POST':
 		infile = request.files['positive_messages']
 
