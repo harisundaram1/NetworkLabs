@@ -180,10 +180,10 @@ def run_distance_query(result, max_walk_time):
 	distances_list = []
 
 	for item in result:
-		distances.append(item["distance"])
+		distances_list.append(item["distance"])
 
 	# query to get the corresponsing walking times in one go
-	sql_query = "SELECT distance,walk_time FROM WalkingTimes where distance in " + str(distances) + " and walk_time<=" + str(max_walk_time)
+	sql_query = "SELECT distance,walk_time FROM WalkingTimes where distance in " + str(distances_list) + " and walk_time<=" + str(max_walk_time)
 	
 	# Create a client for connecting to the database
 	client = connect()
