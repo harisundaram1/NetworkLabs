@@ -128,6 +128,7 @@ def network_config():
 	output_xml = prettify(top)
 	print "Saving the config file for Network"
 	# save in config_data file.
+	# make sure to change the path to store the config file here
 	outfile = open('config_data/network_config.xml',"w")
 	outfile.write(output_xml)
 	outfile.close()
@@ -144,6 +145,46 @@ def info_display_config():
 	top = Element('top')
 	comment = Comment('Config File for Information Display')
 	top.append(comment)
+
+	if request.form['threshold_positive']:
+		threshold_positive = request.form['threshold_positive']
+
+		if debug: print threshold_positive
+
+		child = SubElement(top, 'Threshold_Positive')
+		child.text = threshold_positive
+
+	if request.form['threshold_negative']:
+		threshold_negative = request.form['threshold_negative']
+
+		if debug: print threshold_negative
+
+		child = SubElement(top, 'Threshold_Positive')
+		child.text = threshold_negative
+
+	if request.form['threshold_per_day']:
+		threshold_per_day = request.form['threshold_per_day']
+
+		if debug: print threshold_per_day
+
+		child = SubElement(top, 'Threshold_Per_Day')
+		child.text = threshold_per_day
+
+	if request.form['threshold_time']:
+		threshold_time = request.form['threshold_time']
+
+		if debug: print threshold_time
+
+		child = SubElement(top, 'Threshold_Time')
+		child.text = threshold_time
+
+	if request.form['threshold_hierarchy']:
+		threshold_hierarchy = request.form['threshold_hierarchy']
+
+		if debug: print threshold_hierarchy
+
+		child = SubElement(top, 'Threshold_Hierarchy')
+		child.text = threshold_hierarchy
 
 	if request.method == 'POST':
 		infile = request.files['positive_messages']
@@ -250,6 +291,7 @@ def info_display_config():
 	output_xml = prettify(top)
 	print "Saving the config file for Information Display"
 	# save in config_data file.
+	# make sure to change the path to store the config data here
 	outfile = open('config_data/info_display_config.xml',"w")
 	outfile.write(output_xml)
 	outfile.close()
