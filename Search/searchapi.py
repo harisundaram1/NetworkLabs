@@ -167,7 +167,7 @@ def get_max_walk_time(time_limit):
 
 def dist_item_unpack(res):
 	# Create a dictionary to hold all distance - walk times
-	temp = defaultdict()
+	temp = defaultdict(int)
 	
 	for item in res:
 		temp[item.distance] = item.walk_time
@@ -200,7 +200,12 @@ def run_distance_query(result, max_walk_time):
 		distance = int(result[item]['distance'])
 		
 		# Get the corresponding walking time and store it in our result dictionary
-		result[item]['walk_time'] = distances_hash[distance]
+		if distances_hash[distance]:
+			result[item]['walk_time'] = distances_hash[distance]
+		else:
+			# if key was 0 then its walk time was greater than the unpacked items obtained from the query.
+			# set it to 15000 which is greater than the largest value in the db.
+			result[item]['walk_time'] = 15000
 
 	# return the result back which now has walking times as well
 	return result
