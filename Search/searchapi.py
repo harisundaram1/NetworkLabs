@@ -69,7 +69,7 @@ def rest_item_unpack(item):
 	#print "Unpacking item"
 	#'health_index' : "{0:.2f}".format(item.health_index*10) #incase we need health index
 
-	return { 'res_id' : item.res_id, 'name' : item.name, 'address' : item.address, 'rating' : item.rating, 'latitude' : item.latitude, 'longitude' : item.longitude, 'mobile_url' : item.mobile_url, 'review_count' : item.review_count, 'cuisines' : item.cuisines, 'health_option' : item.health_option, 'image_url' : item.image_url, 'avg_price': item.avg_price, 'veg_options': item.veg_options }
+	return { 'res_id' : item.res_id, 'name' : item.name, 'address' : item.address, 'rating' : item.rating, 'latitude' : item.latitude, 'longitude' : item.longitude, 'mobile_url' : item.mobile_url, 'review_count' : item.review_count, 'cuisines' : item.cuisines, 'health_option' : item.health_option, 'image_url' : item.image_url, 'avg_price': item.avg_price, 'veg_options': item.veg_options, 'rid': item.rid }
 
 def run_query(query='', srcLat='', srcLong='', distanceFlag=0):
 	'''Function to run query and return the results'''
