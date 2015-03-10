@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<top>
+  <!--Config File for Network-->
+  <Database_Name>healthy_living</Database_Name>
+  <Person>on</Person>
+  <Num_of_users/>
+  <Network_Topology>small_world</Network_Topology>
+  <Num_of_friends>12</Num_of_friends>
+  <Recalibrate_Network>no</Recalibrate_Network>
+</top>
