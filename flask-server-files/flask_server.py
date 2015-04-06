@@ -22,7 +22,14 @@ def search():
 	print ret
 	print("end of function")
 	return ret 
-	
+
+@app.route("/steps_walked", methods=['POST'])
+def calculate_steps_walked():
+	print "steps_walked called with data:" + request.data 
+	steps_param = ast.literal_eval(request.data)
+	print steps_param['cardId']
+	print("end of function")
+	return "Done"
 
 if __name__ == "__main__":
 	app.debug = True
