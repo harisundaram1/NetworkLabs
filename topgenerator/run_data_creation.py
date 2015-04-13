@@ -28,8 +28,8 @@ delta = datetime.timedelta(days=1)
 # pr.enable()
 while start_date <= end_date:
 	print ''
-	# print '=======creating activities for '+start_date.strftime('%Y-%m-%d')+'========'
-	# tp.create_activity_cards(users,start_date)
+	print '=======creating activities for '+start_date.strftime('%Y-%m-%d')+'========'
+	tp.create_activity_cards(users,start_date)
 	print '=======creating comments/likes for '+start_date.strftime('%Y-%m-%d')+'========'
 	tp.create_comment_likes(users,start_date)
 	start_date += delta

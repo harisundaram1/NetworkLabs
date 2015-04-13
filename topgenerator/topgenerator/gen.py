@@ -520,6 +520,7 @@ def create_images_for_users():
    	
    	for img_url in img_list:
    		if img_url != '':
+   			
    			img_filename = re.sub('http.*/','',img_url)
    			print 'getting '+img_filename
    			urllib.urlretrieve(img_url,'data/img/people/'+img_filename)
