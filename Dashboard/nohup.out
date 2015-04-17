@@ -1,0 +1,8 @@
+ * Running on http://127.0.0.1:5000/
+ * Restarting with reloader
+127.0.0.1 - - [11/Mar/2015 08:54:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2015 08:54:31] "GET /static/bootstrap-3.2.0-dist/css/bootstrap.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2015 08:54:31] "GET /static/bootstrap-3.2.0-dist/js/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2015 08:54:31] "GET /static/bootstrap-3.2.0-dist/js/bootstrap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2015 08:54:31] "GET /static/bootstrap-3.2.0-dist/js/holder.js HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2015 08:54:31] "GET /favicon.ico HTTP/1.1" 404 -
