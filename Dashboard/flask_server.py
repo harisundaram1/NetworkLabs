@@ -9,7 +9,7 @@ from ElementTree_pretty import prettify
 import ast
 
 
-UPLOAD_FOLDER = '/Users/moontails/NetworkLabs/Dashboard/config_data/'
+UPLOAD_FOLDER = '~/NetworkLabs/Dashboard/config_data/'
 ALLOWED_EXTENSIONS = set(['csv'])
 
 app = Flask(__name__)
