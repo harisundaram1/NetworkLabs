@@ -30,7 +30,6 @@
         background-color: #f5f5f5;
       }
     </style>
-
     <!-- Custom styles for this template -->
   </head>
 
@@ -87,127 +86,173 @@
               <div class="tab-pane" id="network">
                 <h2 class="page-header">Network Configurations</h2>
                 <p class="lead">
-                  Control the network topology, database creation and other network parameters
+                  What would you like to do today?
+                </p>
 
-                  <div class="container">
-                  <form class="form-horizontal" action="/dashboard/network_config" method="POST" enctype="multipart/form-data">
-                      <h4 class="page-header">Database</h4>
-                      <div class="form-group ">
+                <div>
+                  <h4 class="page-header">Configure Database</h4>
+                  <p>
+                    This section allows the experimenter to customize and deploy the database for the test application. Create or Import data.
+                  </p>
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#databaseCreate">
+                    Create
+                  </button>
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#databaseImport">
+                    Import
+                  </button>
+                  <h4 class="page-header">Configure Network Topology</h4>
+                  <p>
+                    This section allows the experimenter to customize the network topology. Experimenter can create synthetic data of users and create a specific type of network among the users. Database creation is a prerequisite for this step. Click launch to create new topoloty.
+                  </p>
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#topologyConfig">
+                    Launch
+                  </button>
+                  <h4 class="page-header">Advanced Settings</h4>
+                  <p>
+                    More Advanced configurations available. Click launch to see more.
+                  </p>
+                  <button type="button" class="btn btn-primary btn" data-toggle="modal" data-target="#advancedConfig">
+                    Launch
+                  </button>
+                </div>
 
-                        <label for="list1" class="col-sm-4 control-label">Enter database to be created</label>
-                        <div class="col-sm-3">
-                          <div class="input-group">
-                            <input type="text" class="form-control" id="list1" name="db_name" placeholder="database name">
-                            <span class="input-group-addon">Ex - app_name</span>
+                <!-- Modal -->
+                <div class="modal fade " id="databaseCreate" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                  <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                        <h4 class="modal-title" id="myModalLabel">Create Database</h4>
+                      </div>
+                      <form class="form-horizontal" action="/dashboard/network_config" method="POST" enctype="multipart/form-data">
+                      <div class="modal-body">
+                          <div class="form-group ">
+                            <label for="list1" class="col-sm-4 control-label">Enter database to be created</label>
+                            <div class="col-sm-4">
+                              <div class="input-group">
+                                <input type="text" class="form-control" id="list1" name="db_name" placeholder="database name">
+                                <span class="input-group-addon">E.g.: app_name</span>
+                              </div>
+                            </div>
                           </div>
-                        </div>
 
+                            <div class="form-group ">
+                              <label for="list1" class="col-sm-4 control-label">Select classes to be created</label>
+                              <div class="col-sm-2">
+                                <div class="checkbox">
+
+                                  <label><input type="checkbox" name="person">Person</label>
+                                  <a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" title="Person" data-content="Person table holds the users of the system."><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span></a><br/>
+                                  
+                                  <label><input type="checkbox" name="base_entity">Base Entity</label>
+                                  <a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" title="Base Entity" data-content="Base Entity the user interacts with. Eg.:Restaurant "><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span></a><br/>
+
+                                  <label><input type="checkbox" name="card">Card</label>
+                                  <a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" title="Card" data-content="Displayable entity for all the user activities."><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span></a><br/>
+                                  <label><input type="checkbox" name="walk_steps">Walk Time</label>
+                                  <a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" title="Walk Time" data-content="Table consists of walking time required given source-destincation pairs of Latitude and Logitude."><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span></a>
+
+                                </div>
+                              </div>
+                            </div>
+                            </form>
                       </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save changes</button>
+                      </div>
+                    </div>
+                    
+                  </div>
+                </div>
 
-                      <div class="form-group ">
 
-                        <label for="list1" class="col-sm-4 control-label">Select classes to be created</label>
-                        <div class="col-sm-2">
-                          <div class="checkbox">
-                            <label><input type="checkbox" name="person"> Person</label><br>
-                            <label><input type="checkbox" name="base_entity"> Base Entity</label><br>
-                            <label><input type="checkbox" name="card"> Card
-                            </label>
+
+                <div class="modal fade " id="databaseImport" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                  <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                        <h4 class="modal-title" id="myModalLabel">Import Class/Table</h4>
+                      </div>
+                      <div class="modal-body">
+                        <form class="form-horizontal" action="/dashboard/network_config" method="POST" enctype="multipart/form-data">
+                          
+                          <div class="form-group ">
+                            <label for="list4" class="col-sm-5 control-label">Restaurant</label>
+                            <div class="col-sm-2">
+                              <div class="container">
+                                <input type="file" id="restaurantInputFile" name="restaurant">
+                                <p class="help-block">Import Restaurant detail</p>
+                              </div>
+                            </div>
                           </div>
-                        </div>
 
-                      </div>
-
-                      <h4 class="page-header">Network Controls</h4>
-                      <div class="form-group ">
-
-                        <label for="list4" class="col-sm-4 control-label">Enter the number of users</label>
-                        <div class="col-sm-3">
-                          <div class="input-group">
-                            <input type="text" class="form-control" id="list4" placeholder="number of users" name="num_users">
-                            <span class="input-group-addon">Ex - 1000</span>
+                          <div class="form-group ">
+                            <label for="list4" class="col-sm-5 control-label">Walking Time</label>
+                            <div class="col-sm-2">
+                              <div class="container">
+                                <input type="file" id="walkTimeInutFile" name="walk_time">
+                                <p class="help-block">Import Walk Time detail</p>
+                              </div>
+                            </div>
                           </div>
-                        </div>
 
+                        </form>
                       </div>
-                      <div class="form-group ">
-
-                        <label for="list5" class="col-sm-4 control-label">Select the network topology</label>
-                        <div class="col-sm-2">
-                          <div class="checkbox">
-                            <label class="radio"><input type="radio" value="no" name="network_type" checked> No</label>
-                            <label class="radio"><input type="radio" value="small_world" name="network_type"> Small World</label>
-                            <label class="radio"><input type="radio" value="power_law" name="network_type"> Power Law</label>
-                            <label class="radio"><input type="radio" value="random_network" name="network_type"> Random Network</label>
-                          </div>
-                        </div>
-
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save changes</button>
                       </div>
-                      <div class="form-group ">
+                    </div>
+                  </div>
+                </div>
 
-                        <label for="list6" class="col-sm-4 control-label">Enter number of friends for each user:</label>
-                        <div class="col-sm-3">
-                          <div class="input-group">
-                            <input type="text" class="form-control" id="list6" placeholder="number of friends" name="num_friends">
-                            <span class="input-group-addon">Ex - 30</span>
-                          </div>
-                        </div>
 
+
+
+                <div class="modal fade" id="topologyConfig" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                        <h4 class="modal-title" id="myModalLabel">Configure Network Topology</h4>
                       </div>
-
-                      <div class="form-group ">
-
-                        <label for="list6" class="col-sm-4 control-label">Recalibrate Information Network</label>
-                        <div class="col-sm-2">
-                          <div class="checkbox">
-                            <label class="radio"><input type="radio" value="yes" name="recalibrate"> Yes</label>
-                            <label class="radio"><input type="radio" value="no" name="recalibrate" checked> No</label>
-                          </div>
-                        </div>
-
+                      <div class="modal-body">
+                        ...
                       </div>
-
-                      <h4 class="page-header">Special Cases</h4>
-
-                      <div class="form-group ">
-
-                        <label for="list7" class="col-sm-4 control-label">Add a single user</label>
-                        <div class="col-sm-3">
-                          <div class="input-group">
-                            <input type="text" class="form-control" id="list7" placeholder="username" name="single_user">
-                            <span class="input-group-addon">Ex - username</span>
-                          </div>
-                        </div>
-
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Save changes</button>
                       </div>
-                      <div class="form-group ">
+                    </div>
+                  </div>
+                </div>
 
-                        <label for="list8" class="col-sm-4 control-label">Add custom friends</label>
-                        <div class="col-sm-2">
-                          <div class="container">
-                            <input type="file" id="friendInputFile" name="custom_friends">
-                            <p class="help-block">Input file with user names</p>
-                          </div>
-                        </div>
-
+                <div class="modal fade" id="advancedConfig" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                        <h4 class="modal-title" id="myModalLabel">Advanced Settings</h4>
                       </div>
-                      <div class="form-group ">
-
-                        <label for="list9" class="col-sm-4 control-label">Clear Network</label>
-                        <div class="col-sm-2">
-                          <div class="checkbox">
-                            <label><input type="checkbox" name="clear_network"> Yes</label><br>
-                          </div>
-                        </div>
+                      <div class="modal-body">
+                        ...
                       </div>
-
-                      <div class="form-group">
-                        <div class="col-sm-offset-3">
-                          <input type="submit" class="btn btn-primary col-sm-3" name="network-form" value="Send">
-                        </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
                       </div>
-
-                  </form>
+                    </div>
+                  </div>
                 </div>
 
               </div>
@@ -441,15 +486,25 @@
     <script src="{{ url_for('static',filename='bootstrap-3.2.0-dist/js/bootstrap.min.js') }}"></script>
 	<script src="{{ url_for('static',filename='bootstrap-3.2.0-dist/js/holder.js') }}"></script>
   <script type="text/javascript">
-  $('.dropdown-select').on( 'click', '.dropdown-menu li a', function() {
-     var target = $(this).html();
+    $('.dropdown-select').on( 'click', '.dropdown-menu li a', function() {
+       var target = $(this).html();
 
-     //Adds active class to selected item
-     $(this).parents('.dropdown-menu').find('li').removeClass('active');
-     $(this).parent('li').addClass('active');
+       //Adds active class to selected item
+       $(this).parents('.dropdown-menu').find('li').removeClass('active');
+       $(this).parent('li').addClass('active');
 
-     //Displays selected text on dropdown-toggle button
-     $(this).parents('.dropdown-select').find('.dropdown-toggle').html(target + ' <span class="caret"></span>');
-  });</script>
+       //Displays selected text on dropdown-toggle button
+       $(this).parents('.dropdown-select').find('.dropdown-toggle').html(target + ' <span class="caret"></span>');
+    });
+      
+    $(document).ready(function(){
+        $('[data-toggle="popover"]').popover({
+            placement : 'right',
+            container: 'body'
+        });
+    });
+
+
+  </script>
   </body>
 </html>
