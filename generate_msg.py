@@ -577,8 +577,8 @@ def rest_visited_by_friends(rid,msg_type,restaurant_name=""):
 			msg = '<b>'+str(healthy_friends_monthly)+'</b> out of <b>'+str(total_friends)+'</b> of your friends have eaten healthy over the <b>past month</b>'
 			print msg
 			cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-delta).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
-                        print cmd_str
-                        insert_card(cmd_str,rid)
+			print cmd_str
+			#insert_card(cmd_str,rid)
 			if index_monthly:
 				msg_end = ' of your friends have eaten'+str(w1_m)+' healthy '+str(desc_cuisine_monthly[index_monthly][0])+str(w1_m)+' over the past month'
 				categorize_messages(desc_cuisine_monthly[index_monthly][1],total_friends,msg_end,1)
@@ -590,8 +590,8 @@ def rest_visited_by_friends(rid,msg_type,restaurant_name=""):
 				msg = '<b>'+str(dsorted_visits_spatial_monthly[spatial_index_monthly][1])+'</b> out of <b> '+str(total_friends)+'</b> of your friends have eaten in <b>'+str(dsorted_visits_spatial_monthly[spatial_index_monthly][0])+'</b> over the past month'
 				print msg
 				cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-delta).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
-	                        print cmd_str
-        	                insert_card(cmd_str,rid)
+				print cmd_str
+				#insert_card(cmd_str,rid)
 			
 		else:
 			#Not eaten cuisine weekly and monthly
@@ -666,14 +666,14 @@ def rest_visited_by_network(rid,msg_type,restaurant_name=""):
 			msg =  ''+' Most people in the network have visited <b>'+get_restaurant_name(dsorted_all_restaurant_visits[0][0])+'</b>'
 			print msg
 			cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-(datetime.timedelta(days=4))).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
-                        print cmd_str
-                        insert_card(cmd_str,rid)
+			print cmd_str
+			#insert_card(cmd_str,rid)
 
 			msg = '<b>'+str(int(percent_visited_alltime))+'%</b> of the people in the network have eaten at <b>'+str(rname_alltime)+'</b>'
 			print msg
 			cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-(datetime.timedelta(days=5))).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
-                        print cmd_str
-                        insert_card(cmd_str,rid)
+			print cmd_str
+			#insert_card(cmd_str,rid)
 			msg = ''+str(visited_alltime)+' out of '+str(total_people)+' of the people in the network have eaten at '+str(rname_alltime)
 			print msg
 			msg = ''+str(healthy_users)+' out of '+str(total_people)+' of the people in the network have eaten healthy'
@@ -685,15 +685,15 @@ def rest_visited_by_network(rid,msg_type,restaurant_name=""):
 				msg = '<b>'+str(dsorted_visits_spatial[spatial_index][1])+'</b> out of <b>'+str(total_people)+'</b> of the people in the network have eaten in <b>'+str(dsorted_visits_spatial[spatial_index][0])
 				print msg
 				cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int(creation_date.strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
-                        	print cmd_str
-	                        insert_card(cmd_str,rid)
+				print cmd_str
+				insert_card(cmd_str,rid)
 			msg = 'The people in the network have walked a total of '+str(steps_walked)+' steps'
 			print msg
 			msg = walking_message(steps_walked,"If you and the network on an average walk",total_people)
 			print msg
 			cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-(datetime.timedelta(days=1))).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
 			print cmd_str
-			insert_card(cmd_str,rid)
+			#insert_card(cmd_str,rid)
 		else:
 			msg = get_restaurant_name(asorted_all_restaurant_visits[0][0])+' was least popular among the people in the network '
 			print msg
@@ -701,7 +701,7 @@ def rest_visited_by_network(rid,msg_type,restaurant_name=""):
 			print msg
 			cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-(datetime.timedelta(days=4))).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
 			print cmd_str
-			insert_card(cmd_str,rid)
+			#insert_card(cmd_str,rid)
 			msg =  ''+str(notvisited_alltime)+' out of '+str(total_people)+' of the people in the network have not eaten at '+str(rname_alltime)
 			print msg
 			msg = ''+str(unhealthy_users)+' out of '+str(total_people)+' of the people in the network have not eaten healthy'
@@ -734,8 +734,8 @@ def rest_visited_by_network(rid,msg_type,restaurant_name=""):
 			print msg
 			msg = '<b>'+str(healthy_users_weekly)+'</b> out of <b>'+str(total_people)+'</b> of the people in the network have eaten healthy over the past week'
 			cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-(datetime.timedelta(days=9))).strftime('%s'))*1000-15000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
-                        print cmd_str
-                        insert_card(cmd_str,rid)
+			print cmd_str
+			#insert_card(cmd_str,rid)
 
 			print msg
 			msg = ''+str(desc_cuisine_weekly[index_weekly][1])+' out of '+str(total_people)+' of the people in the network have eaten healthy '+str(desc_cuisine_weekly[index_weekly][0])+' over the past week'
@@ -955,9 +955,9 @@ def rest_visited_by_vegetarians(rid,veg,msg_type,restaurant_name):
 			if ret_val == 1:
 					recid_img = create_binary_data("/Local/Users/dev/NetworkLabs/namedfriend_overlay_cuisine_monthly.jpg")
 					cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int(creation_date.strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",image="'+recid_img+'"'
-					card_rid = insert_card(cmd_str,user_id,1)
-					id_rec = cl.command('create edge has_uploaded_image from '+str(card_rid)+' to '+str(recid_img))
-					print id_rec[0].rid	
+			#		card_rid = insert_card(cmd_str,user_id,1)
+			#		id_rec = cl.command('create edge has_uploaded_image from '+str(card_rid)+' to '+str(recid_img))
+			#		print id_rec[0].rid	
 
 			if spatial_index:
 				msg = ''+str(veg_desc_spatial[spatial_index][1])+' out of '+str(total_veg)+' of the vegetarians have eaten in '+str(veg_desc_spatial[spatial_index][0])
@@ -1269,14 +1269,15 @@ def gen_stats_named_friend(user_id,named_friend_rid,named_friend_name,steps_walk
 				msg = ''+str(named_friend_name)+' has never eaten unhealthy'
 			else: 
 				msg = '<b>'+str(named_friend_name)+'</b> has eaten healthy food <b>'+str(healthy_visits)+'</b> times'		
-				cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-(datetime.timedelta(days=1))).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
-	                        print cmd_str
-        	                insert_card(cmd_str,rid)
+				
 		else:
 			msg = ''+str(named_friend_name)+' has visited '+str(asc_visitcount[0][0])+' '+str(asc_visitcount[0][1])+' times'
 			print msg
 			msg = ''+str(named_friend_name)+' has visited '+str(asc_visitcount[0][0])+' least times'
 			print msg
+			cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int((creation_date-(datetime.timedelta(days=1))).strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
+			print cmd_str
+			insert_card(cmd_str,rid)
 			if healthy_visits==0:
 				msg = ''+str(named_friend_name)+' has never eaten healthy'
 			else:
@@ -1301,7 +1302,7 @@ def gen_stats_named_friend(user_id,named_friend_rid,named_friend_name,steps_walk
 				print msg
 				cmd_str = 'create vertex Card set display_type="info",comment_count=0,comment_list=[],like_count=0,like_list=[],people_involved=[],created_at="'+str(int(creation_date.strftime('%s'))*1000)+'",created_at_datetime="'+str(creation_date.strftime('%Y-%m-%d'))+'",html_content="'+msg+'"'
 	                        print cmd_str
-        	                insert_card(cmd_str,rid)
+        	#                insert_card(cmd_str,rid)
 			if unhealthy_visits_weekly==0:
 				msg = ''+str(named_friend_name)+' has never eaten unhealthy over the past week'
 			else: 
