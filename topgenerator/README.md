@@ -1,10 +1,11 @@
 topgenerator
 ============
 
-Run:
-
+Run the following in terminal:
+```cmd
 $ python setup.py install
 $ python setup.py develop
+```
 
 Start Python:
 
