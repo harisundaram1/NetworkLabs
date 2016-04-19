@@ -1,6 +1,7 @@
 import schedule
 import time
-import * from .gen
+from .gen import * 
 # Add scheduler methods
 
-def create_activities_for_all_users
+def create_activities_for_all_users():
+    pass
