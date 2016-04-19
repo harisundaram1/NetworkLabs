@@ -8,14 +8,19 @@ $ python setup.py develop
 
 Start Python:
 
->>> import pyorient
->>> import topgenerator
->>> from topgenerator.gen import *
+```python
+import pyorient
+import topgenerator
+from topgenerator.gen import *
+```
+
 
 Create a random network:
-
->>> create_newtwork()
+```python
+create_newtwork()
+```
 
 Delete all nodes:
-
->>> clear_network()
+```python
+clear_network()
+```
